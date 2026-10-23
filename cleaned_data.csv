@@ -1,0 +1,958 @@
+customer_id,full_names,emails,signup_date,country,spend,segment,is_active
+CUST-1387,Aisha Brennan,aisha.brennan@mail.test,,Germany,,Enterprise,FALSE
+CUST-1943,Omar Brennan,omar.brennan@example.com,2025-01-25,United Kingdom,$100.66,Enterprise,FALSE
+CUST-1007,Ravi Okafor,ravi@example.com,2024-10-18,Brazil,$273.67,Enterprise,TRUE
+CUST-1249,Leilani Da Silva,leilani.dasilva@corp.example,2024-06-26,United Kingdom,$84.38,Mid-Market,TRUE
+CUST-1900,Marcus Kowalski,marcus.kowalski@example.com,2024-09-26,Germany,,Mid-Market,TRUE
+CUST-1841,Leilani Odwyer,leilani.odwyer@example.com,2023-06-19,Brazil,$122.09,Consumer,TRUE
+CUST-1433,Tomás Odwyer,toms.odwyer@corp.example,2024-04-06,Brazil,$139.54,Enterprise,FALSE
+CUST-1194,Priya Costa,priya.costa@mail.test,2023-01-08,United States,$461.54,Small Business,FALSE
+CUST-1466,Ana Nakamura,ana.nakamura@mail.test,2023-12-10,United States,$341.62,Mid-Market,FALSE
+CUST-1116,Yuki Nguyen,yuki.nguyen@example.com,2025-02-05,United Kingdom,$242.52,Consumer,FALSE
+CUST-1811,Leilani Patel,leilani.patel@example.com,2024-06-14,Germany,$136.26,Mid-Market,TRUE
+CUST-1580,Yuki Okafor,yuki.okafor@corp.example,2023-08-18,Brazil,$189.67,Enterprise,FALSE
+CUST-1248,Yuki Ferrari,yuki.ferrari@mail.test,,United States,$751.00,Mid-Market,TRUE
+CUST-1882,Grace Ferrari,grace.ferrari@mail.test,2024-09-18,United States,"$44,518.00",Enterprise,FALSE
+CUST-1563,Omar Haddad,omar.haddad@corp.example,2023-07-31,France,,Enterprise,FALSE
+CUST-1854,Priya Ferrari,priya.ferrari@example.com,2024-07-05,Brazil,$65.00,Small Business,TRUE
+CUST-1083,Grace Brennan,grace.brennan@mail.test,2023-07-27,United States,"$1,652.39",Small Business,TRUE
+CUST-1273,Grace Ferrari,grace.ferrari@mail.test,2025-04-19,United States,$238.70,Small Business,FALSE
+CUST-1146,Omar Patel,omar.patel@corp.example,2023-05-04,France,-$999.00,Consumer,FALSE
+CUST-1028,Ravi Lindqvist,ravi.lindqvist@example.com,2023-05-28,Germany,$130.12,Enterprise,FALSE
+CUST-1544,Priya Ferrari,priya.ferrari@corp.example,2024-10-28,United States,$672.66,Small Business,TRUE
+CUST-1872,Mikael Weber,mikael.weber@corp.example,2025-03-21,United States,$54.00,Enterprise,FALSE
+CUST-1552,Omar Okafor,omar.okafor@corp.example,2023-06-18,United Kingdom,"$6,630.00",Consumer,FALSE
+CUST-1937,Grace Nakamura,grace.nakamura@example.com,2025-03-11,Brazil,$92.20,Enterprise,FALSE
+CUST-1431,Ravi Patel,ravi.patel@corp.example,2023-12-03,France,$398.01,Consumer,FALSE
+CUST-1520,Tomás Nakamura,toms.nakamura@example.com,2025-01-30,France,$419.49,Enterprise,FALSE
+CUST-1324,Mikael Patel,mikael.patel@example.com,2023-06-21,Brazil,$445.00,Consumer,TRUE
+CUST-1740,Yuki Weber,yuki.weber@corp.example,2023-12-21,Brazil,$455.31,Mid-Market,TRUE
+CUST-1822,Yuki Kowalski,yuki.kowalski@example.com,2025-06-03,Brazil,$108.58,Enterprise,TRUE
+CUST-1395,Jonas Kowalski,jonas.kowalski@example.com,2024-01-28,France,$223.00,Enterprise,TRUE
+CUST-1150,Omar Nguyen,omar.nguyen@example.com,2024-10-14,Germany,"$11,097.00",Small Business,FALSE
+CUST-1885,Noor Da Silva,noor.dasilva@mail.test,2025-10-04,United Kingdom,"$46,753.00",Consumer,TRUE
+CUST-1133,Leilani Ferrari,leilani.ferrari@mail.test,2023-04-10,Germany,$209.00,Enterprise,FALSE
+CUST-1915,Priya Nguyen,priya.nguyen@mail.test,2023-10-15,Germany,"$9,143.00",Mid-Market,TRUE
+CUST-1734,Ravi Brennan,ravi.brennan@mail.test,,United States,$450.00,Small Business,FALSE
+CUST-1237,Yuki Patel,yuki.patel@example.com,2025-01-14,United Kingdom,$49.00,Mid-Market,TRUE
+CUST-1577,Grace Odwyer,grace.odwyer@example.com,2024-03-03,France,$229.74,Small Business,FALSE
+CUST-1921,Yuki Da Silva,yuki.dasilva@mail.test,2023-10-19,Germany,$267.54,Small Business,TRUE
+CUST-1221,Sofia Weber,sofia.weber@example.com,,France,$33.32,Mid-Market,TRUE
+CUST-1270,Noor Brennan,noor.brennan@corp.example,2024-05-24,Germany,$257.74,Enterprise,FALSE
+CUST-1102,Mikael Patel,mikael.patel@mail.test,,United States,$112.83,Enterprise,TRUE
+CUST-1541,Aisha Haddad,aisha.haddad@mail.test,2023-08-28,United Kingdom,-$999.00,Mid-Market,FALSE
+CUST-1836,Chen Costa,chen.costa@example.com,2023-07-22,United States,$151.00,Mid-Market,TRUE
+CUST-1927,Yuki Haddad,yuki@example.com,2024-03-20,United States,,Consumer,FALSE
+CUST-1425,Tomás Haddad,toms.haddad@corp.example,2023-03-18,United States,$89.12,Small Business,FALSE
+CUST-1575,Sofia Weber,sofia.weber@mail.test,2023-03-22,United States,$192.17,Enterprise,TRUE
+CUST-1802,Leilani Patel,leilani.patel@corp.example,2023-11-19,France,"$49,919.00",Small Business,FALSE
+CUST-1685,Ravi Costa,ravi.costa@corp.example,2024-09-02,France,$286.67,Mid-Market,FALSE
+CUST-1091,Aisha Da Silva,aisha.dasilva@corp.example,2024-06-11,Germany,$304.25,Mid-Market,FALSE
+CUST-1244,Aisha Costa,aisha.costa@example.com,2023-08-23,United Kingdom,$180.91,Consumer,TRUE
+CUST-1848,Grace Costa,grace.costa@corp.example,2024-04-28,United States,$353.70,Mid-Market,TRUE
+CUST-1045,Yuki Nakamura,yuki.nakamura@corp.example,2025-04-28,Germany,$596.05,Small Business,FALSE
+CUST-1444,Noor Ferrari,noor.ferrari@corp.example,2025-05-31,Germany,$419.18,Mid-Market,TRUE
+CUST-1117,Mikael Ferrari,mikael.ferrari@example.com,2023-06-28,Germany,$291.17,Consumer,FALSE
+CUST-1894,Mikael Odwyer,mikael.odwyer@mail.test,2024-12-17,United States,$93.00,Consumer,TRUE
+CUST-1775,Noor Weber,,2023-04-16,Brazil,$269.94,Small Business,TRUE
+CUST-1374,Jonas Ferrari,jonas.ferrari@corp.example,2023-10-14,United States,$167.00,Enterprise,TRUE
+CUST-1812,Mikael Da Silva,mikael.dasilva@example.com,2024-07-23,United States,$53.22,Consumer,FALSE
+CUST-1180,Omar Weber,omar.weber@mail.test,2023-02-26,United Kingdom,$422.85,Small Business,FALSE
+CUST-1336,Yuki Weber,yuki.weber@corp.example,2025-06-19,Brazil,$232.00,Small Business,FALSE
+CUST-1119,Noor Kowalski,noor.kowalski@mail.test,2025-06-09,Brazil,$66.98,Enterprise,TRUE
+CUST-1418,Omar Haddad,omar.haddad@example.com,2023-03-08,United States,$233.64,Small Business,TRUE
+CUST-1694,Marcus Ferrari,marcus.ferrari@mail.test,2025-06-14,France,"$22,557.00",Small Business,TRUE
+CUST-1473,Noor Da Silva,noor.dasilva@mail.test,2024-05-20,United States,$499.60,Small Business,TRUE
+CUST-1040,Mikael Brennan,mikael.brennan@mail.test,2024-09-28,France,"$2,787.22",Mid-Market,FALSE
+CUST-1726,Ana Ferrari,ana.ferrari@corp.example,2023-12-26,United Kingdom,$392.09,Small Business,TRUE
+CUST-1670,Ana Da Silva,ana.dasilva@corp.example,2025-01-31,United States,$199.00,Enterprise,TRUE
+CUST-1176,Ravi Costa,ravi.costa@example.com,2023-02-16,United States,"$35,016.00",Mid-Market,TRUE
+CUST-1449,Sofia Costa,sofia.costa@corp.example,2023-11-22,United Kingdom,$73.04,Small Business,FALSE
+CUST-1610,Omar Nakamura,omar.nakamura@example.com,2024-08-27,Germany,$261.98,Consumer,TRUE
+CUST-1485,Jonas Da Silva,jonas.dasilva@mail.test,,United Kingdom,$52.22,Consumer,FALSE
+CUST-1161,Aisha Kowalski,aisha@example.com,2023-05-16,United States,,Consumer,TRUE
+CUST-1056,Omar Weber,omar.weber@example.com,2024-07-17,France,$386.86,Consumer,FALSE
+CUST-1809,Aisha Patel,aisha.patel@example.com,2023-08-05,Germany,$28.54,Enterprise,FALSE
+CUST-1946,Marcus Ferrari,marcus@example.com,2024-10-29,France,"$9,003.00",Mid-Market,TRUE
+CUST-1452,Chen Brennan,chen.brennan@mail.test,2025-05-25,Brazil,-$999.00,Small Business,FALSE
+CUST-1168,Ravi Haddad,ravi.haddad@corp.example,2023-06-12,Brazil,$221.48,Small Business,TRUE
+CUST-1386,Grace Costa,grace.costa@corp.example,,France,$652.00,Small Business,FALSE
+CUST-1059,Ana Lindqvist,,2023-08-10,United States,$150.00,Enterprise,FALSE
+CUST-1271,Ravi Haddad,ravi.haddad@mail.test,2023-10-02,Germany,$864.05,Enterprise,TRUE
+CUST-1530,Jonas Okafor,jonas.okafor@example.com,2023-11-24,United States,$223.12,Mid-Market,TRUE
+CUST-1369,Priya Weber,priya.weber@example.com,2025-01-30,France,$520.86,Enterprise,TRUE
+CUST-1620,Yuki Lindqvist,yuki.lindqvist@mail.test,1897-04-05,United Kingdom,$114.00,Consumer,FALSE
+CUST-1316,Ana Patel,ana.patel@mail.test,2023-02-21,United Kingdom,$220.00,Small Business,TRUE
+CUST-1929,Ravi Costa,ravi.costa@mail.test,2025-04-30,Brazil,$85.25,Small Business,FALSE
+CUST-1319,Ana Haddad,ana.haddad@mail.test,2023-05-28,United Kingdom,$361.07,Mid-Market,FALSE
+CUST-1063,Priya Odwyer,priya.odwyer@corp.example,2025-04-28,Brazil,$137.74,Mid-Market,TRUE
+CUST-1464,Grace Kowalski,grace.kowalski@corp.example,2024-08-02,United Kingdom,$255.48,Mid-Market,FALSE
+CUST-1831,Ana Haddad,ana.haddad@mail.test,REVIEW,United Kingdom,"$1,342.36",Enterprise,FALSE
+CUST-1593,Jonas Nguyen,jonas.nguyen@mail.test,2025-10-01,United States,$204.94,Small Business,TRUE
+CUST-1088,Leilani Odwyer,leilani.odwyer@corp.example,2023-09-06,United Kingdom,"$1,007.00",Consumer,FALSE
+CUST-1149,Noor Nguyen,noor.nguyen@mail.test,2024-05-11,United States,$195.00,Enterprise,TRUE
+CUST-1549,Jonas Ferrari,jonas@example.com,2023-11-12,Brazil,$140.44,Consumer,FALSE
+CUST-1340,Jonas Okafor,jonas.okafor@example.com,2024-11-28,United Kingdom,$314.01,Small Business,FALSE
+CUST-1050,Marcus Weber,marcus.weber@example.com,2023-03-08,Germany,$119.97,Small Business,FALSE
+CUST-1022,Leilani Patel,leilani.patel@mail.test,2023-07-20,Germany,$244.00,Mid-Market,TRUE
+CUST-1829,Priya Ferrari,priya.ferrari@corp.example,2024-07-01,France,$170.41,Mid-Market,FALSE
+CUST-1243,Priya Da Silva,priya.dasilva@mail.test,2023-08-07,Brazil,$293.13,Enterprise,FALSE
+CUST-1182,Ravi Kowalski,ravi.kowalski@example.com,2023-10-01,Germany,$475.35,Enterprise,FALSE
+CUST-1604,Jonas Ferrari,jonas.ferrari@corp.example,2023-12-31,Germany,$653.85,Consumer,FALSE
+CUST-1288,Priya Patel,priya.patel@example.com,2024-04-26,Brazil,$250.40,Mid-Market,TRUE
+CUST-1853,Sofia Odwyer,sofia.odwyer@mail.test,2023-04-04,United Kingdom,$295.00,Mid-Market,FALSE
+CUST-1037,Mikael Odwyer,mikael.odwyer@corp.example,2023-04-18,Brazil,$189.88,Mid-Market,FALSE
+CUST-1614,Leilani Brennan,leilani.brennan@example.com,2023-11-09,United Kingdom,$287.40,Mid-Market,TRUE
+CUST-1504,Tomás Nguyen,toms.nguyen@mail.test,2024-11-19,United Kingdom,$657.00,Small Business,FALSE
+CUST-1266,Mikael Costa,mikael.costa@mail.test,,Germany,$479.26,Mid-Market,TRUE
+CUST-1755,Jonas Haddad,jonas.haddad@corp.example,2023-03-29,United States,"$14,062.00",Small Business,FALSE
+CUST-1138,Chen Weber,chen.weber@example.com,,United States,$112.64,Mid-Market,TRUE
+CUST-1881,Sofia Nguyen,sofia.nguyen@mail.test,2025-08-05,United Kingdom,$311.18,Mid-Market,FALSE
+CUST-1844,Marcus Costa,marcus.costa@example.com,2023-12-08,United States,"$7,101.00",Enterprise,FALSE
+CUST-1404,Jonas Da Silva,,2024-09-08,Brazil,$267.79,Mid-Market,TRUE
+CUST-1767,Chen Nakamura,chen.nakamura@corp.example,2023-08-31,France,"$1,039.60",Enterprise,FALSE
+CUST-1375,Ana Nakamura,ana.nakamura@mail.test,2025-01-30,Germany,,Small Business,FALSE
+CUST-1128,Yuki Da Silva,yuki.dasilva@mail.test,2025-02-23,United States,$117.83,Consumer,FALSE
+CUST-1774,Omar Da Silva,omar.dasilva@example.com,2025-04-24,Brazil,"$75,825.00",Enterprise,TRUE
+CUST-1631,Ana Weber,ana.weber@example.com,2024-12-24,Brazil,$126.25,Small Business,TRUE
+CUST-1363,Sofia Odwyer,sofia.odwyer@mail.test,2024-06-17,United Kingdom,$616.45,Small Business,TRUE
+CUST-1343,Leilani Weber,leilani.weber@corp.example,2024-05-24,France,,Consumer,FALSE
+CUST-1159,Ravi Nguyen,ravi.nguyen@example.com,2023-04-30,United Kingdom,$214.57,Consumer,FALSE
+CUST-1003,Yuki Nakamura,yuki@example.com,2024-05-08,Germany,$82.23,Consumer,TRUE
+CUST-1154,Mikael Odwyer,mikael.odwyer@example.com,2025-06-19,Brazil,"$4,161.00",Small Business,FALSE
+CUST-1886,Grace Odwyer,grace.odwyer@corp.example,2024-12-23,Brazil,$119.08,Small Business,FALSE
+CUST-1607,Aisha Da Silva,aisha.dasilva@example.com,2023-02-13,Germany,$214.17,Enterprise,TRUE
+CUST-1227,Yuki Weber,yuki.weber@corp.example,2024-09-14,United States,$39.19,Enterprise,FALSE
+CUST-1686,Aisha Odwyer,aisha.odwyer@mail.test,,Brazil,"$29,702.00",Enterprise,TRUE
+CUST-1066,Leilani Nakamura,leilani.nakamura@mail.test,2023-07-13,Brazil,$457.05,Small Business,FALSE
+CUST-1472,Yuki Ferrari,yuki.ferrari@mail.test,2023-09-21,Germany,"$23,784.00",Mid-Market,TRUE
+CUST-1471,Priya Lindqvist,priya.lindqvist@mail.test,2023-12-29,France,"$16,393.00",Small Business,FALSE
+CUST-1223,Aisha Odwyer,aisha.odwyer@mail.test,2024-12-15,United States,$459.00,Enterprise,TRUE
+CUST-1791,Priya Okafor,priya.okafor@mail.test,2023-07-23,Germany,$338.63,Mid-Market,TRUE
+CUST-1584,Noor Kowalski,noor.kowalski@corp.example,2023-01-07,Germany,$357.33,Enterprise,TRUE
+CUST-1135,Marcus Odwyer,marcus.odwyer@example.com,2025-03-01,France,$27.90,Mid-Market,FALSE
+CUST-1827,Priya Weber,priya@example.com,2025-02-15,Brazil,$183.87,Small Business,TRUE
+CUST-1327,Noor Nguyen,noor.nguyen@corp.example,2024-11-02,United Kingdom,$162.00,Small Business,FALSE
+CUST-1603,Marcus Nakamura,marcus.nakamura@example.com,2023-01-31,United States,$58.00,Small Business,FALSE
+CUST-1313,Chen Haddad,chen.haddad@corp.example,,United States,$56.72,Small Business,FALSE
+CUST-1357,Sofia Okafor,sofia@example.com,2024-09-08,France,$86.26,Enterprise,FALSE
+CUST-1758,Ana Brennan,ana.brennan@corp.example,2025-03-27,Germany,"$1,476.00",Consumer,TRUE
+CUST-1283,Yuki Nguyen,yuki.nguyen@corp.example,2025-03-21,Germany,"$29,156.00",Mid-Market,FALSE
+CUST-1104,Omar Weber,omar.weber@corp.example,2023-11-19,Germany,$268.81,Mid-Market,TRUE
+CUST-1382,Grace Ferrari,grace.ferrari@corp.example,2025-02-24,United States,"$26,508.00",Small Business,FALSE
+CUST-1346,Leilani Kowalski,leilani.kowalski@example.com,2023-10-09,Germany,"$30,356.00",Enterprise,TRUE
+CUST-1574,Chen Nguyen,chen.nguyen@example.com,2023-07-27,United States,$430.12,Enterprise,FALSE
+CUST-1629,Jonas Nguyen,jonas.nguyen@corp.example,2023-05-15,Germany,$117.00,Small Business,FALSE
+CUST-1440,Jonas Weber,jonas.weber@example.com,2023-07-27,United States,"$50,608.00",Consumer,TRUE
+CUST-1709,Aisha Patel,aisha.patel@example.com,2023-09-28,United Kingdom,$332.69,Small Business,FALSE
+CUST-1291,Grace Ferrari,grace.ferrari@mail.test,2024-12-02,Brazil,$184.64,Consumer,TRUE
+CUST-1601,Ana Ferrari,ana.ferrari@example.com,2024-02-11,France,$150.89,Enterprise,FALSE
+CUST-1420,Noor Patel,noor.patel@mail.test,2025-01-15,United States,$316.09,Mid-Market,TRUE
+CUST-1039,Omar Costa,omar.costa@mail.test,2024-03-06,France,$76.77,Enterprise,FALSE
+CUST-1596,Jonas Nguyen,jonas.nguyen@corp.example,2025-03-29,United States,$61.14,Consumer,FALSE
+CUST-1296,Jonas Ferrari,jonas.ferrari@mail.test,2024-07-14,Germany,$79.44,Enterprise,TRUE
+CUST-1238,Ravi Lindqvist,ravi.lindqvist@corp.example,2023-07-13,United States,$119.23,Small Business,TRUE
+CUST-1639,Priya Nakamura,priya@example.com,2025-05-26,France,$175.53,Enterprise,TRUE
+CUST-1936,Noor Nakamura,noor.nakamura@example.com,2024-05-18,United Kingdom,$143.43,Mid-Market,FALSE
+CUST-1026,Chen Weber,chen.weber@corp.example,REVIEW,Brazil,-$999.00,Mid-Market,TRUE
+CUST-1038,Priya Weber,priya.weber@mail.test,2024-05-17,United Kingdom,$990.00,Enterprise,TRUE
+CUST-1813,Yuki Kowalski,yuki.kowalski@example.com,2024-08-09,France,$124.34,Enterprise,TRUE
+CUST-1835,Mikael Da Silva,mikael.dasilva@example.com,2023-12-04,Brazil,$161.16,Mid-Market,FALSE
+CUST-1598,Ana Lindqvist,ana.lindqvist@example.com,2023-05-24,United States,$347.58,Enterprise,TRUE
+CUST-1862,Leilani Costa,leilani@example..com,REVIEW,France,$160.00,Mid-Market,TRUE
+CUST-1438,Sofia Lindqvist,sofia.lindqvist@mail.test,2023-12-20,United States,$159.53,Enterprise,FALSE
+CUST-1190,Omar Nakamura,omar.nakamura@mail.test,1897-04-05,Germany,$97.94,Small Business,TRUE
+CUST-1933,Noor Okafor,noor.okafor@mail.test,2024-09-15,United Kingdom,$289.61,Mid-Market,TRUE
+CUST-1535,Mikael Brennan,mikael.brennan@example.com,2023-10-09,United States,$226.50,Consumer,FALSE
+CUST-1103,Chen Weber,chen.weber@example.com,2025-02-25,United Kingdom,$451.12,Enterprise,TRUE
+CUST-1523,Grace Nguyen,grace.nguyen@example.com,2024-07-16,United States,$19.14,Enterprise,TRUE
+CUST-1181,Leilani Patel,leilani.patel@example.com,2024-07-01,France,$386.91,Mid-Market,FALSE
+CUST-1021,Priya Da Silva,priya.dasilva@mail.test,2023-03-02,Brazil,"$15,220.00",Small Business,TRUE
+CUST-1587,Sofia Kowalski,sofia.kowalski@example.com,2024-08-28,United Kingdom,$309.00,Small Business,TRUE
+CUST-1118,Jonas Da Silva,jonas.dasilva@mail.test,2023-06-21,United States,$96.97,Enterprise,TRUE
+CUST-1331,Grace Nguyen,grace.nguyen@corp.example,2024-03-22,United States,$355.27,Small Business,FALSE
+CUST-1558,Mikael Odwyer,mikael@example.com,2023-05-20,United States,$510.11,Small Business,TRUE
+CUST-1911,Tomás Costa,toms.costa@example.com,,United States,$246.00,Mid-Market,TRUE
+CUST-1918,Priya Da Silva,priya.dasilva@corp.example,2024-02-05,Germany,$409.21,Enterprise,FALSE
+CUST-1514,Tomás Nakamura,toms.nakamura@mail.test,2023-10-29,United Kingdom,$674.00,Consumer,FALSE
+CUST-1664,Ana Nguyen,ana.nguyen@mail.test,2023-09-02,Brazil,$147.54,Small Business,FALSE
+CUST-1825,Noor Nakamura,noor.nakamura@corp.example,2024-07-09,United States,$652.96,Enterprise,TRUE
+CUST-1477,Noor Da Silva,noor.dasilva@mail.test,2023-12-18,Brazil,$27.66,Small Business,TRUE
+CUST-1286,Tomás Kowalski,toms.kowalski@mail.test,2025-08-03,United States,$647.00,Small Business,FALSE
+CUST-1857,Tomás Patel,toms.patel@corp.example,2025-04-29,France,$77.00,Enterprise,TRUE
+CUST-1786,Ravi Costa,ravi.costa@example.com,2023-08-06,United States,$334.51,Mid-Market,TRUE
+CUST-1935,Leilani Lindqvist,leilani.lindqvist@mail.test,2024-08-28,France,"$8,469.00",Consumer,FALSE
+CUST-1660,Omar Odwyer,omar.odwyer@example.com,2023-09-04,Germany,$92.00,Enterprise,FALSE
+CUST-1379,Ravi Kowalski,ravi.kowalski@mail.test,2024-03-20,United States,"$18,155.00",Enterprise,TRUE
+CUST-1380,Leilani Ferrari,,2025-03-02,United States,$102.74,Mid-Market,FALSE
+CUST-1186,Omar Da Silva,omar.dasilva@mail.test,2025-06-19,United States,,Small Business,FALSE
+CUST-1870,Noor Kowalski,noor.kowalski@corp.example,2024-09-11,United States,"$15,270.00",Enterprise,TRUE
+CUST-1721,Mikael Okafor,mikael.okafor@mail.test,2023-11-30,United States,$137.67,Small Business,FALSE
+CUST-1368,Tomás Ferrari,toms.ferrari@example.com,2025-04-18,Brazil,$129.31,Mid-Market,FALSE
+CUST-1738,Omar Odwyer,omar.odwyer@corp.example,2023-07-06,France,$376.39,Enterprise,TRUE
+CUST-1222,Yuki Da Silva,yuki.dasilva@corp.example,2023-02-15,United States,$346.00,Mid-Market,TRUE
+CUST-1250,Jonas Costa,,,France,$536.80,Enterprise,FALSE
+CUST-1136,Leilani Nakamura,,2024-02-03,France,$209.44,Mid-Market,FALSE
+CUST-1796,Marcus Da Silva,marcus.dasilva@example.com,2023-09-01,United States,$986.75,Small Business,FALSE
+CUST-1793,Priya Okafor,priya.okafor@corp.example,2024-08-02,France,$284.00,Consumer,TRUE
+CUST-1562,Leilani Patel,leilani.patel@example.com,2025-04-29,United States,$85.70,Small Business,TRUE
+CUST-1308,Jonas Kowalski,jonas.kowalski@corp.example,2023-02-27,United States,$228.00,Enterprise,TRUE
+CUST-1453,Yuki Kowalski,yuki.kowalski@example.com,2023-08-15,United States,"$16,832.00",Mid-Market,TRUE
+CUST-1876,Ana Costa,ana.costa@corp.example,2024-04-05,Germany,$191.00,Consumer,TRUE
+CUST-1646,Aisha Haddad,aisha.haddad@example.com,2024-10-07,France,$643.33,Small Business,TRUE
+CUST-1203,Aisha Costa,aisha.costa@corp.example,2023-03-03,Germany,$289.09,Enterprise,TRUE
+CUST-1826,Sofia Brennan,sofia@example.com,2024-05-08,United Kingdom,$258.20,Mid-Market,FALSE
+CUST-1713,Chen Odwyer,chen.odwyer@example.com,2024-08-02,United States,"$22,396.00",Enterprise,TRUE
+CUST-1397,Ravi Costa,ravi.costa@corp.example,2024-07-14,Brazil,$442.66,Consumer,FALSE
+CUST-1143,Marcus Haddad,marcus.haddad@example.com,2024-08-23,Germany,$111.65,Small Business,TRUE
+CUST-1301,Yuki Okafor,yuki.okafor@example.com,2025-03-29,Germany,$128.16,Small Business,TRUE
+CUST-1268,Priya Nguyen,priya.nguyen@corp.example,2025-03-18,United States,$68.11,Mid-Market,TRUE
+CUST-1691,Aisha Nakamura,aisha@example..com,2024-04-20,France,$148.47,Enterprise,FALSE
+CUST-1788,Omar Ferrari,omar.ferrari@corp.example,2023-02-18,United States,"$17,282.00",Consumer,TRUE
+CUST-1376,Omar Okafor,omar.okafor@corp.example,2024-08-12,Germany,$511.99,Small Business,FALSE
+CUST-1309,Ravi Odwyer,ravi.odwyer@example.com,2023-11-21,Germany,$59.33,Mid-Market,FALSE
+CUST-1338,Yuki Costa,yuki.costa@mail.test,2023-08-29,United Kingdom,$108.03,Consumer,TRUE
+CUST-1641,Marcus Brennan,marcus.brennan@example.com,2024-10-14,United Kingdom,"$11,474.00",Small Business,FALSE
+CUST-1810,Mikael Brennan,mikael.brennan@mail.test,2024-07-12,Germany,$194.62,Small Business,FALSE
+CUST-1792,Ana Da Silva,ana.dasilva@example.com,2023-02-04,France,$214.85,Mid-Market,TRUE
+CUST-1058,Leilani Da Silva,leilani.dasilva@example.com,2024-04-16,United Kingdom,$105.91,Small Business,TRUE
+CUST-1729,Tomás Patel,toms.patel@mail.test,2023-06-04,United Kingdom,$136.22,Enterprise,FALSE
+CUST-1710,Ana Okafor,ana.okafor@corp.example,2024-02-04,United States,,Mid-Market,TRUE
+CUST-1583,Grace Kowalski,grace.kowalski@corp.example,,Germany,$93.84,Small Business,FALSE
+CUST-1498,Mikael Ferrari,mikael.ferrari@mail.test,2023-08-28,United Kingdom,$443.94,Mid-Market,TRUE
+CUST-1255,Ana Patel,ana.patel@corp.example,2024-06-24,United States,$64.09,Small Business,FALSE
+CUST-1155,Sofia Kowalski,sofia.kowalski@corp.example,2024-10-13,Germany,"$48,092.00",Enterprise,TRUE
+CUST-1799,Aisha Brennan,aisha@example.com,2023-02-03,Brazil,$864.54,Consumer,TRUE
+CUST-1167,Ana Nakamura,ana@example..com,2023-10-04,United States,"$1,159.16",Mid-Market,FALSE
+CUST-1060,Aisha Ferrari,aisha.ferrari@mail.test,2023-05-09,United States,$316.12,Enterprise,TRUE
+CUST-1529,Marcus Okafor,marcus.okafor@example.com,2024-03-07,United States,$114.00,Enterprise,FALSE
+CUST-1156,Leilani Weber,leilani.weber@example.com,2023-03-12,France,"$8,172.00",Enterprise,FALSE
+CUST-1945,Grace Nguyen,grace.nguyen@example.com,2024-08-22,United States,$167.00,Small Business,TRUE
+CUST-1924,Mikael Kowalski,mikael.kowalski@corp.example,2023-04-01,France,$124.31,Mid-Market,FALSE
+CUST-1838,Yuki Haddad,yuki.haddad@corp.example,2025-06-04,Germany,"$20,511.00",Enterprise,TRUE
+CUST-1926,Ravi Brennan,ravi.brennan@example.com,2024-05-29,United States,$102.80,Consumer,TRUE
+CUST-1025,Ravi Nguyen,ravi.nguyen@mail.test,2024-06-04,Germany,$772.00,Enterprise,FALSE
+CUST-1513,Omar Kowalski,omar.kowalski@corp.example,2025-03-01,United States,,Enterprise,FALSE
+CUST-1661,Mikael Ferrari,,2023-09-12,Germany,$499.90,Mid-Market,TRUE
+CUST-1771,Ravi Odwyer,ravi@example.com,2023-10-31,United Kingdom,"$8,720.00",Small Business,FALSE
+CUST-1546,Grace Okafor,grace.okafor@example.com,2025-03-17,Germany,$125.34,Small Business,TRUE
+CUST-1503,Grace Costa,grace.costa@corp.example,2024-02-15,Brazil,$204.69,Enterprise,FALSE
+CUST-1090,Grace Nguyen,grace.nguyen@example.com,2023-04-27,Germany,$732.00,Mid-Market,TRUE
+CUST-1902,Noor Nakamura,noor@example.com,2025-09-06,Germany,$69.95,Enterprise,TRUE
+CUST-1856,Noor Da Silva,noor.dasilva@mail.test,2024-07-01,United Kingdom,$396.67,Mid-Market,TRUE
+CUST-1121,Grace Weber,grace.weber@corp.example,2024-12-17,Germany,$176.43,Mid-Market,TRUE
+CUST-1715,Omar Kowalski,omar.kowalski@corp.example,2023-01-29,Germany,"$4,199.00",Enterprise,TRUE
+CUST-1302,Sofia Haddad,sofia@example..com,2024-05-24,Brazil,$96.28,Small Business,TRUE
+CUST-1081,Tomás Weber,toms.weber@mail.test,2023-08-20,Brazil,$366.30,Mid-Market,TRUE
+CUST-1015,Grace Weber,grace.weber@mail.test,2024-11-23,United States,$431.66,Mid-Market,TRUE
+CUST-1247,Marcus Ferrari,marcus.ferrari@mail.test,2023-04-18,United Kingdom,"$1,241.79",Mid-Market,FALSE
+CUST-1616,Chen Nguyen,chen.nguyen@example.com,2025-06-16,United Kingdom,$552.57,Enterprise,FALSE
+CUST-1677,Ana Weber,ana.weber@corp.example,2023-08-25,United States,$181.15,Enterprise,FALSE
+CUST-1623,Mikael Nakamura,mikael.nakamura@corp.example,2023-11-30,Germany,$340.89,Enterprise,FALSE
+CUST-1550,Tomás Ferrari,toms.ferrari@example.com,2023-11-23,Germany,$201.96,Mid-Market,TRUE
+CUST-1188,Chen Da Silva,chen.dasilva@example.com,2023-01-05,Germany,$594.22,Small Business,FALSE
+CUST-1253,Mikael Haddad,mikael.haddad@corp.example,2024-09-10,Brazil,$184.80,Enterprise,TRUE
+CUST-1671,Mikael Okafor,mikael.okafor@example.com,2025-02-08,United Kingdom,$66.55,Small Business,FALSE
+CUST-1801,Yuki Da Silva,,2023-02-23,Germany,$364.92,Consumer,FALSE
+CUST-1415,Aisha Odwyer,aisha.odwyer@mail.test,2023-09-12,United States,$227.52,Mid-Market,TRUE
+CUST-1252,Tomás Odwyer,toms.odwyer@example.com,2024-03-14,Brazil,$513.32,Small Business,TRUE
+CUST-1704,Yuki Brennan,yuki.brennan@corp.example,2023-02-12,Brazil,$214.56,Small Business,TRUE
+CUST-1573,Noor Okafor,noor.okafor@corp.example,REVIEW,Germany,$161.72,Enterprise,FALSE
+CUST-1483,Tomás Haddad,s@example.com,2024-01-12,United Kingdom,$384.65,Enterprise,TRUE
+CUST-1093,Jonas Odwyer,jonas.odwyer@mail.test,2024-05-03,United Kingdom,$178.09,Mid-Market,FALSE
+CUST-1282,Mikael Weber,mikael.weber@example.com,2024-07-12,United States,$31.00,Mid-Market,FALSE
+CUST-1705,Omar Brennan,omar.brennan@example.com,2023-01-20,France,$35.70,Mid-Market,FALSE
+CUST-1105,Priya Lindqvist,priya.lindqvist@corp.example,2023-08-18,Germany,$706.13,Small Business,TRUE
+CUST-1235,Mikael Nguyen,mikael.nguyen@corp.example,2023-12-18,Germany,$118.70,Small Business,TRUE
+CUST-1823,Mikael Weber,mikael.weber@example.com,2024-09-13,France,"$1,829.96",Enterprise,FALSE
+CUST-1325,Tomás Da Silva,toms.dasilva@mail.test,2023-12-14,Brazil,$335.01,Small Business,TRUE
+CUST-1735,Leilani Da Silva,leilani.dasilva@example.com,2023-03-07,Germany,$210.64,Small Business,TRUE
+CUST-1476,Tomás Okafor,toms.okafor@example.com,2023-07-11,Brazil,$393.42,Mid-Market,FALSE
+CUST-1606,Yuki Patel,yuki.patel@corp.example,2023-03-15,France,$178.87,Mid-Market,TRUE
+CUST-1954,Mikael Nguyen,mikael.nguyen@corp.example,2024-10-17,United States,,Consumer,FALSE
+CUST-1145,Aisha Kowalski,aisha.kowalski@example.com,2024-09-27,France,$128.49,Enterprise,FALSE
+CUST-1651,Jonas Kowalski,jonas.kowalski@mail.test,2023-10-13,Brazil,$173.91,Consumer,FALSE
+CUST-1753,Ravi Lindqvist,ravi.lindqvist@corp.example,2023-04-28,Brazil,"$33,322.00",Small Business,FALSE
+CUST-1265,Tomás Weber,toms.weber@mail.test,2024-05-06,United Kingdom,$404.00,Enterprise,TRUE
+CUST-1617,Tomás Haddad,toms.haddad@example.com,2025-06-08,Germany,$103.44,Enterprise,FALSE
+CUST-1850,Priya Haddad,priya.haddad@corp.example,2023-05-02,United States,$219.12,Small Business,TRUE
+CUST-1765,Grace Okafor,grace.okafor@example.com,2024-12-04,United Kingdom,$104.78,Consumer,FALSE
+CUST-1581,Priya Kowalski,priya.kowalski@example.com,2023-05-10,United Kingdom,$123.79,Mid-Market,TRUE
+CUST-1048,Leilani Lindqvist,leilani.lindqvist@mail.test,2023-07-17,United States,$187.82,Mid-Market,FALSE
+CUST-1157,Ravi Nguyen,ravi.nguyen@corp.example,2023-03-23,Brazil,$100.44,Enterprise,TRUE
+CUST-1078,Grace Lindqvist,grace.lindqvist@corp.example,2023-07-09,United Kingdom,$197.87,Enterprise,FALSE
+CUST-1259,Grace Lindqvist,grace.lindqvist@corp.example,2024-01-21,United States,$80.70,Mid-Market,FALSE
+CUST-1212,Ravi Haddad,ravi.haddad@example.com,2025-03-30,Brazil,$177.11,Consumer,TRUE
+CUST-1430,Jonas Kowalski,jonas.kowalski@mail.test,2025-01-14,United States,$99.25,Mid-Market,TRUE
+CUST-1320,Ana Patel,ana.patel@corp.example,2023-06-25,Germany,$243.23,Enterprise,FALSE
+CUST-1674,Grace Nakamura,grace.nakamura@mail.test,2023-05-17,United States,"$1,058.00",Mid-Market,FALSE
+CUST-1484,Yuki Weber,yuki.weber@mail.test,2024-07-28,Germany,"$1,396.98",Small Business,TRUE
+CUST-1778,Noor Kowalski,noor.kowalski@mail.test,2024-01-07,Brazil,"$60,600.00",Consumer,FALSE
+CUST-1144,Tomás Kowalski,toms.kowalski@corp.example,2025-02-22,United States,"$24,987.00",Enterprise,FALSE
+CUST-1388,Noor Brennan,noor.brennan@corp.example,2023-07-21,United States,"$64,607.00",Enterprise,TRUE
+CUST-1391,Noor Okafor,noor.okafor@example.com,2024-07-13,United Kingdom,$48.17,Enterprise,FALSE
+CUST-1669,Leilani Brennan,leilani.brennan@mail.test,2025-03-13,Germany,$39.82,Enterprise,TRUE
+CUST-1414,Chen Patel,chen.patel@example.com,2024-03-31,Brazil,$531.27,Small Business,TRUE
+CUST-1824,Jonas Weber,jonas.weber@mail.test,2024-05-19,France,,Small Business,TRUE
+CUST-1246,Mikael Costa,mikael.costa@mail.test,2024-03-31,Germany,$108.79,Small Business,TRUE
+CUST-1307,Grace Lindqvist,grace.lindqvist@corp.example,2024-09-21,France,$825.05,Enterprise,TRUE
+CUST-1200,Grace Nguyen,grace.nguyen@corp.example,2024-12-22,France,$141.88,Mid-Market,FALSE
+CUST-1014,Aisha Costa,aisha.costa@corp.example,2025-04-22,United States,"$41,226.00",Enterprise,TRUE
+CUST-1578,Chen Lindqvist,chen.lindqvist@corp.example,2023-04-16,United States,$169.84,Mid-Market,TRUE
+CUST-1814,Priya Weber,priya.weber@corp.example,2023-12-24,Germany,"$34,202.00",Consumer,TRUE
+CUST-1389,Omar Nakamura,omar.nakamura@mail.test,2024-08-11,United Kingdom,,Consumer,TRUE
+CUST-1405,Aisha Odwyer,aisha.odwyer@mail.test,2024-03-09,United States,$398.82,Consumer,TRUE
+CUST-1636,Ravi Odwyer,ravi.odwyer@mail.test,2023-01-01,United States,$60.00,Small Business,FALSE
+CUST-1443,Ravi Nguyen,ravi.nguyen@mail.test,2024-06-16,United Kingdom,,Enterprise,FALSE
+CUST-1202,Ana Da Silva,ana.dasilva@example.com,2024-03-03,Brazil,$84.45,Mid-Market,FALSE
+CUST-1486,Priya Costa,priya.costa@example.com,2024-04-11,Germany,"$27,781.00",Small Business,TRUE
+CUST-1948,Omar Lindqvist,omar.lindqvist@mail.test,2024-04-28,Germany,$177.00,Enterprise,TRUE
+CUST-1585,Chen Patel,chen.patel@corp.example,2024-02-15,France,$124.02,Mid-Market,TRUE
+CUST-1698,Ana Ferrari,,2025-04-21,United Kingdom,"$1,569.13",Mid-Market,TRUE
+CUST-1251,Priya Nakamura,priya.nakamura@example.com,2025-08-01,Germany,$781.00,Enterprise,FALSE
+CUST-1518,Marcus Okafor,marcus.okafor@corp.example,2023-03-13,Brazil,$130.82,Consumer,FALSE
+CUST-1330,Yuki Kowalski,yuki.kowalski@mail.test,2023-09-05,United Kingdom,$214.00,Small Business,TRUE
+CUST-1347,Aisha Haddad,aisha.haddad@corp.example,2023-03-20,Brazil,$39.34,Consumer,TRUE
+CUST-1537,Aisha Ferrari,aisha.ferrari@example.com,2024-07-15,Brazil,$261.97,Enterprise,TRUE
+CUST-1542,Ravi Weber,ravi@example..com,2024-08-24,United States,-$999.00,Mid-Market,TRUE
+CUST-1158,Yuki Weber,yuki.weber@corp.example,2023-11-07,United Kingdom,$105.00,Enterprise,TRUE
+CUST-1869,Mikael Nguyen,mikael.nguyen@example.com,2023-05-03,United Kingdom,"$108,798.00",Small Business,TRUE
+CUST-1044,Jonas Ferrari,jonas.ferrari@corp.example,2024-05-04,France,$487.00,Enterprise,TRUE
+CUST-1229,Tomás Brennan,toms.brennan@example.com,2023-01-28,United States,$159.68,Consumer,FALSE
+CUST-1576,Chen Lindqvist,chen.lindqvist@example.com,2023-03-22,United States,$148.00,Mid-Market,TRUE
+CUST-1893,Jonas Nguyen,jonas.nguyen@example.com,2023-06-30,United Kingdom,$205.11,Small Business,FALSE
+CUST-1867,Marcus Da Silva,marcus.dasilva@corp.example,2024-10-28,United States,$17.03,Mid-Market,FALSE
+CUST-1370,Grace Lindqvist,grace.lindqvist@example.com,2025-07-05,United Kingdom,$378.54,Small Business,FALSE
+CUST-1548,Priya Costa,priya.costa@corp.example,2024-02-10,United States,"$5,726.00",Mid-Market,FALSE
+CUST-1930,Marcus Da Silva,marcus.dasilva@mail.test,2025-06-11,France,$952.00,Mid-Market,FALSE
+CUST-1365,Chen Patel,chen.patel@mail.test,2024-03-11,United Kingdom,$406.00,Small Business,TRUE
+CUST-1422,Ravi Kowalski,ravi.kowalski@example.com,2023-08-11,United States,$220.18,Consumer,FALSE
+CUST-1210,Noor Odwyer,noor.odwyer@mail.test,2024-03-21,United States,$166.04,Small Business,FALSE
+CUST-1784,Ana Da Silva,ana.dasilva@corp.example,2025-03-31,Germany,$35.31,Small Business,FALSE
+CUST-1312,Priya Weber,priya@example.com,2023-11-12,France,$40.56,Consumer,FALSE
+CUST-1032,Marcus Lindqvist,marcus.lindqvist@mail.test,2024-09-02,United Kingdom,$514.98,Small Business,TRUE
+CUST-1046,Tomás Okafor,toms.okafor@corp.example,2025-04-19,United States,"$6,426.00",Small Business,FALSE
+CUST-1468,Omar Okafor,omar.okafor@mail.test,2024-04-18,Brazil,"$14,805.00",Consumer,FALSE
+CUST-1647,Mikael Okafor,,2024-06-10,United Kingdom,,Enterprise,FALSE
+CUST-1499,Priya Ferrari,priya.ferrari@corp.example,2024-02-02,United States,,Consumer,FALSE
+CUST-1318,Mikael Costa,mikael.costa@example.com,2024-04-28,United States,$291.92,Mid-Market,TRUE
+CUST-1695,Grace Da Silva,grace.dasilva@example.com,2023-03-08,United States,$85.97,Enterprise,FALSE
+CUST-1925,Ravi Kowalski,ravi.kowalski@example.com,2025-06-02,United Kingdom,$357.91,Small Business,TRUE
+CUST-1586,Noor Patel,noor.patel@example.com,2025-01-30,Germany,"$27,494.00",Mid-Market,FALSE
+CUST-1690,Yuki Nakamura,yuki.nakamura@example.com,2023-06-01,United Kingdom,$379.00,Mid-Market,FALSE
+CUST-1950,Omar Brennan,omar.brennan@corp.example,2025-02-22,United States,$164.25,Consumer,FALSE
+CUST-1172,Leilani Ferrari,leilani.ferrari@corp.example,2024-10-06,United States,$236.00,Consumer,FALSE
+CUST-1730,Priya Nakamura,priya.nakamura@mail.test,2024-05-27,Germany,$73.85,Mid-Market,FALSE
+CUST-1408,Ravi Haddad,ravi.haddad@corp.example,2024-11-17,Brazil,$325.00,Enterprise,FALSE
+CUST-1556,Ana Lindqvist,ana.lindqvist@mail.test,2024-12-15,United States,$227.36,Enterprise,FALSE
+CUST-1367,Marcus Brennan,,2024-04-03,Germany,$56.00,Consumer,FALSE
+CUST-1254,Ravi Nguyen,ravi.nguyen@example.com,2023-07-15,Germany,$173.00,Mid-Market,TRUE
+CUST-1638,Ana Lindqvist,ana.lindqvist@mail.test,2023-05-02,United States,$105.23,Consumer,TRUE
+CUST-1416,Leilani Lindqvist,leilani.lindqvist@example.com,2023-11-01,United Kingdom,$730.00,Small Business,TRUE
+CUST-1109,Priya Weber,priya.weber@example.com,2023-01-19,France,$152.15,Mid-Market,TRUE
+CUST-1511,Sofia Odwyer,sofia.odwyer@example.com,2024-04-01,United Kingdom,$347.92,Mid-Market,FALSE
+CUST-1435,Ravi Haddad,ravi.haddad@example.com,2024-01-09,France,$195.53,Consumer,TRUE
+CUST-1649,Grace Nguyen,grace.nguyen@example.com,2023-03-11,Germany,$780.15,Small Business,TRUE
+CUST-1909,Leilani Nakamura,leilani.nakamura@corp.example,2025-01-28,Germany,,Enterprise,TRUE
+CUST-1242,Grace Haddad,grace.haddad@corp.example,2023-06-14,Germany,$351.46,Consumer,TRUE
+CUST-1245,Sofia Costa,sofia@example.com,2023-04-28,Germany,$461.76,Consumer,TRUE
+CUST-1644,Ravi Brennan,ravi.brennan@mail.test,2024-09-15,France,,Mid-Market,FALSE
+CUST-1165,Mikael Okafor,mikael.okafor@mail.test,2023-10-13,United States,$79.63,Consumer,TRUE
+CUST-1195,Aisha Weber,aisha.weber@example.com,2023-10-29,Germany,$113.29,Small Business,TRUE
+CUST-1892,Jonas Da Silva,jonas.dasilva@mail.test,2025-04-19,United Kingdom,$79.55,Small Business,TRUE
+CUST-1023,Omar Haddad,omar.haddad@mail.test,2024-11-10,Brazil,$849.00,Mid-Market,TRUE
+CUST-1806,Marcus Lindqvist,marcus.lindqvist@example.com,2023-02-20,Germany,$102.81,Enterprise,TRUE
+CUST-1794,Priya Ferrari,priya.ferrari@example.com,2025-04-25,Germany,"$78,491.00",Enterprise,TRUE
+CUST-1009,Leilani Da Silva,leilani.dasilva@corp.example,2025-03-28,United States,$81.00,Consumer,FALSE
+CUST-1785,Grace Da Silva,grace.dasilva@mail.test,2024-09-16,United States,$93.00,Small Business,TRUE
+CUST-1012,Grace Nakamura,grace.nakamura@corp.example,2023-01-04,United States,$291.47,Enterprise,TRUE
+CUST-1114,Grace Kowalski,grace@example.com,2025-04-16,France,$191.17,Consumer,TRUE
+CUST-1275,Leilani Ferrari,leilani.ferrari@corp.example,2023-08-10,United Kingdom,$156.02,Consumer,TRUE
+CUST-1213,Noor Odwyer,noor.odwyer@mail.test,2024-01-01,Germany,$114.82,Consumer,TRUE
+CUST-1018,Yuki Haddad,yuki.haddad@mail.test,2024-07-31,United States,,Mid-Market,TRUE
+CUST-1366,Chen Lindqvist,chen.lindqvist@corp.example,2024-06-02,United States,$656.00,Mid-Market,TRUE
+CUST-1762,Yuki Odwyer,yuki.odwyer@example.com,2023-12-26,France,$243.00,Small Business,TRUE
+CUST-1934,Yuki Nakamura,yuki.nakamura@corp.example,2025-04-26,Germany,$156.67,Small Business,FALSE
+CUST-1524,Ravi Costa,ravi.costa@example.com,2024-11-29,Brazil,$180.42,Consumer,TRUE
+CUST-1837,Priya Nguyen,priya.nguyen@corp.example,2023-11-12,United Kingdom,"$34,025.00",Mid-Market,FALSE
+CUST-1748,Jonas Nakamura,jonas.nakamura@corp.example,2023-06-24,United Kingdom,$338.13,Small Business,FALSE
+CUST-1113,Noor Nakamura,,2023-07-22,Brazil,$104.75,Enterprise,FALSE
+CUST-1539,Sofia Brennan,sofia.brennan@corp.example,2023-10-25,Germany,$128.32,Small Business,FALSE
+CUST-1505,Ravi Patel,ravi.patel@mail.test,,Germany,$323.86,Small Business,TRUE
+CUST-1665,Chen Costa,chen.costa@mail.test,2024-08-30,United Kingdom,$141.69,Small Business,FALSE
+CUST-1718,Ravi Da Silva,ravi@example.com,2024-05-25,France,$17.90,Mid-Market,FALSE
+CUST-1632,Noor Lindqvist,noor.lindqvist@example.com,2023-05-31,United Kingdom,$167.24,Mid-Market,TRUE
+CUST-1839,Chen Kowalski,chen.kowalski@mail.test,2024-11-13,United States,$252.00,Small Business,TRUE
+CUST-1756,Marcus Nakamura,marcus.nakamura@corp.example,2025-01-18,Brazil,"$36,462.00",Consumer,FALSE
+CUST-1174,Omar Brennan,omar.brennan@corp.example,2024-01-05,United States,$241.56,Small Business,TRUE
+CUST-1736,Yuki Haddad,yuki.haddad@example.com,2024-10-06,United States,$87.00,Small Business,TRUE
+CUST-1011,Priya Da Silva,priya.dasilva@example.com,2023-10-08,United States,$137.00,Small Business,FALSE
+CUST-1215,Marcus Costa,marcus.costa@example.com,2025-05-16,United Kingdom,$540.00,Enterprise,TRUE
+CUST-1615,Aisha Ferrari,aisha.ferrari@example.com,2024-12-11,France,$77.00,Enterprise,TRUE
+CUST-1719,Ravi Odwyer,ravi.odwyer@mail.test,2023-07-14,Germany,$199.00,Enterprise,TRUE
+CUST-1840,Tomás Weber,toms.weber@corp.example,2025-01-14,United States,$107.53,Enterprise,TRUE
+CUST-1333,Ana Odwyer,ana.odwyer@example.com,2023-02-26,France,,Small Business,FALSE
+CUST-1567,Leilani Da Silva,leilani.dasilva@example.com,2024-08-31,United States,$70.23,Enterprise,FALSE
+CUST-1566,Yuki Lindqvist,,2023-12-06,Germany,"$85,593.00",Small Business,FALSE
+CUST-1701,Sofia Nakamura,sofia.nakamura@mail.test,2024-01-20,United Kingdom,$856.00,Small Business,FALSE
+CUST-1526,Chen Ferrari,chen.ferrari@corp.example,2024-07-02,Germany,$341.28,Enterprise,FALSE
+CUST-1659,Ana Haddad,ana.haddad@example.com,2025-03-18,United Kingdom,$647.00,Mid-Market,FALSE
+CUST-1469,Marcus Nguyen,marcus.nguyen@mail.test,2023-05-06,Germany,,Small Business,TRUE
+CUST-1509,Leilani Kowalski,leilani.kowalski@corp.example,2025-05-22,United States,$265.75,Enterprise,TRUE
+CUST-1622,Tomás Okafor,toms.okafor@corp.example,2023-11-21,Brazil,$85.23,Small Business,TRUE
+CUST-1681,Aisha Okafor,aisha@example..com,2024-07-15,France,$121.02,Enterprise,TRUE
+CUST-1164,Mikael Nguyen,mikael.nguyen@corp.example,,Germany,$284.00,Small Business,FALSE
+CUST-1360,Aisha Nguyen,aisha.nguyen@example.com,2023-01-09,United States,$358.70,Enterprise,FALSE
+CUST-1193,Grace Weber,grace.weber@example.com,2025-06-17,United States,$417.00,Small Business,FALSE
+CUST-1139,Omar Weber,omar.weber@mail.test,2024-02-12,United Kingdom,$152.76,Consumer,TRUE
+CUST-1042,Sofia Nakamura,sofia.nakamura@example.com,2025-03-30,France,"$9,114.00",Enterprise,TRUE
+CUST-1795,Aisha Okafor,aisha.okafor@mail.test,2023-06-18,Brazil,$212.37,Mid-Market,FALSE
+CUST-1807,Ana Brennan,ana.brennan@example.com,2023-12-14,United Kingdom,$715.23,Enterprise,FALSE
+CUST-1887,Grace Nguyen,,2023-11-27,United Kingdom,$134.23,Mid-Market,FALSE
+CUST-1456,Sofia Lindqvist,,2024-12-22,Brazil,,Enterprise,FALSE
+CUST-1189,Ravi Nakamura,ravi@example..com,2023-04-01,Brazil,$85.05,Enterprise,FALSE
+CUST-1905,Aisha Ferrari,aisha.ferrari@mail.test,2024-09-21,Germany,"$42,920.00",Consumer,FALSE
+CUST-1183,Aisha Odwyer,aisha.odwyer@corp.example,2024-02-24,France,$168.10,Enterprise,TRUE
+CUST-1095,Ana Weber,ana.weber@example.com,2024-05-21,Brazil,$399.79,Small Business,FALSE
+CUST-1890,Chen Kowalski,chen.kowalski@example.com,2025-05-05,Brazil,$85.47,Small Business,FALSE
+CUST-1111,Priya Weber,priya.weber@example.com,2024-07-07,United States,$364.88,Enterprise,TRUE
+CUST-1633,Mikael Costa,mikael.costa@corp.example,2023-11-26,United Kingdom,"$22,857.00",Enterprise,FALSE
+CUST-1398,Grace Haddad,grace.haddad@example.com,2023-01-03,Brazil,$484.31,Enterprise,FALSE
+CUST-1569,Mikael Okafor,mikael@example..com,2025-03-07,United States,$150.00,Small Business,TRUE
+CUST-1760,Omar Nakamura,omar@example.com,2023-09-26,United Kingdom,"$1,317.00",Mid-Market,TRUE
+CUST-1351,Chen Costa,chen.costa@corp.example,2023-12-04,Germany,$144.00,Small Business,FALSE
+CUST-1527,Sofia Nakamura,sofia@example.com,2024-07-20,Germany,$681.52,Small Business,FALSE
+CUST-1560,Chen Nakamura,chen.nakamura@example.com,2024-09-23,United States,$369.00,Enterprise,FALSE
+CUST-1554,Ravi Weber,ravi.weber@corp.example,2023-07-23,United States,,Mid-Market,FALSE
+CUST-1717,Sofia Da Silva,sofia@example.com,2023-10-04,Germany,$136.74,Enterprise,TRUE
+CUST-1465,Mikael Ferrari,mikael.ferrari@corp.example,2024-11-30,Germany,$161.19,Mid-Market,TRUE
+CUST-1349,Noor Nakamura,noor.nakamura@mail.test,2024-09-04,United States,$72.38,Mid-Market,TRUE
+CUST-1490,Leilani Nakamura,leilani.nakamura@corp.example,2024-10-23,France,$831.89,Enterprise,FALSE
+CUST-1920,Tomás Brennan,toms.brennan@corp.example,2024-07-06,Brazil,"$2,092.00",Small Business,FALSE
+CUST-1299,Aisha Patel,aisha.patel@mail.test,2024-11-30,Brazil,$302.00,Small Business,FALSE
+CUST-1889,Aisha Haddad,aisha.haddad@example.com,2023-05-31,Brazil,"$16,075.00",Enterprise,TRUE
+CUST-1260,Tomás Patel,toms.patel@corp.example,2023-10-23,United Kingdom,"$50,912.00",Mid-Market,TRUE
+CUST-1803,Omar Lindqvist,omar.lindqvist@example.com,2025-04-25,United Kingdom,$152.16,Small Business,TRUE
+CUST-1124,Ravi Brennan,ravi.brennan@corp.example,2024-07-08,France,"$39,989.00",Mid-Market,FALSE
+CUST-1522,Leilani Haddad,leilani.haddad@corp.example,2024-09-05,Germany,$113.55,Small Business,FALSE
+CUST-1501,Ravi Lindqvist,ravi.lindqvist@corp.example,2023-07-20,France,"$19,443.00",Small Business,FALSE
+CUST-1035,Aisha Brennan,aisha.brennan@corp.example,2024-07-02,United States,$236.00,Small Business,FALSE
+CUST-1345,Ravi Okafor,ravi.okafor@mail.test,2024-06-19,France,$528.00,Consumer,TRUE
+CUST-1276,Omar Da Silva,omar.dasilva@example.com,2023-01-12,Germany,$123.39,Consumer,FALSE
+CUST-1239,Tomás Odwyer,toms.odwyer@corp.example,2023-09-09,France,$388.00,Consumer,FALSE
+CUST-1613,Noor Nguyen,noor.nguyen@corp.example,2024-07-04,Brazil,,Enterprise,FALSE
+CUST-1226,Sofia Nakamura,sofia.nakamura@mail.test,2025-04-21,Brazil,$226.11,Mid-Market,TRUE
+CUST-1611,Leilani Ferrari,leilani.ferrari@example.com,2024-03-23,United States,$166.90,Small Business,TRUE
+CUST-1727,Yuki Lindqvist,yuki.lindqvist@example.com,2024-10-26,Brazil,"$9,356.00",Small Business,FALSE
+CUST-1214,Omar Weber,omar.weber@mail.test,2024-03-09,France,"$62,538.00",Mid-Market,TRUE
+CUST-1898,Ana Weber,ana.weber@corp.example,2023-08-17,United States,$68.43,Mid-Market,FALSE
+CUST-1516,Aisha Costa,aisha.costa@mail.test,2023-06-13,Germany,$133.84,Small Business,TRUE
+CUST-1029,Priya Nguyen,priya.nguyen@mail.test,2024-01-14,Brazil,$282.84,Consumer,FALSE
+CUST-1314,Sofia Nakamura,sofia.nakamura@example.com,2024-03-28,United States,"$41,543.00",Small Business,TRUE
+CUST-1407,Ravi Da Silva,ravi.dasilva@example.com,2023-12-07,Brazil,$522.00,Consumer,TRUE
+CUST-1609,Jonas Okafor,jonas.okafor@corp.example,2023-10-17,Germany,,Small Business,FALSE
+CUST-1944,Noor Weber,noor.weber@example.com,2023-11-16,United States,$617.10,Mid-Market,FALSE
+CUST-1687,Jonas Nguyen,jonas.nguyen@corp.example,2024-07-06,Brazil,$59.23,Small Business,TRUE
+CUST-1804,Grace Lindqvist,,2024-04-24,Germany,,Mid-Market,TRUE
+CUST-1216,Sofia Okafor,sofia.okafor@mail.test,2024-09-26,United Kingdom,$48.00,Mid-Market,TRUE
+CUST-1830,Marcus Patel,marcus.patel@mail.test,2023-04-02,United States,$262.67,Mid-Market,TRUE
+CUST-1177,Ravi Kowalski,ravi.kowalski@mail.test,2023-12-26,United Kingdom,$198.00,Consumer,FALSE
+CUST-1315,Aisha Brennan,aisha.brennan@mail.test,2023-06-04,Brazil,$118.53,Enterprise,FALSE
+CUST-1323,Noor Ferrari,noor.ferrari@example.com,2023-07-27,France,,Consumer,FALSE
+CUST-1916,Yuki Brennan,yuki.brennan@corp.example,2024-06-19,Germany,$274.11,Enterprise,FALSE
+CUST-1873,Tomás Nakamura,toms.nakamura@corp.example,2023-07-16,Germany,$355.78,Mid-Market,TRUE
+CUST-1772,Noor Haddad,noor.haddad@example.com,2024-08-23,United States,$659.43,Enterprise,FALSE
+CUST-1262,Aisha Haddad,aisha.haddad@mail.test,2024-06-17,Germany,"$11,603.00",Mid-Market,FALSE
+CUST-1462,Sofia Da Silva,sofia.dasilva@corp.example,2023-01-14,Germany,"$15,492.00",Consumer,FALSE
+CUST-1137,Yuki Patel,,2024-04-05,Germany,$273.58,Enterprise,FALSE
+CUST-1866,Grace Brennan,grace.brennan@mail.test,2025-06-19,United States,$276.94,Mid-Market,FALSE
+CUST-1808,Mikael Ferrari,mikael.ferrari@mail.test,REVIEW,France,$352.34,Small Business,TRUE
+CUST-1482,Noor Lindqvist,noor.lindqvist@corp.example,2025-02-05,United States,$509.13,Enterprise,TRUE
+CUST-1080,Ravi Nakamura,ravi.nakamura@corp.example,2023-11-16,United States,$721.73,Mid-Market,FALSE
+CUST-1493,Ravi Da Silva,ravi.dasilva@mail.test,2023-04-08,United States,$747.48,Mid-Market,TRUE
+CUST-1761,Grace Okafor,grace.okafor@mail.test,,France,"$1,132.72",Enterprise,TRUE
+CUST-1089,Ana Odwyer,ana.odwyer@mail.test,2024-07-24,United States,-$999.00,Mid-Market,FALSE
+CUST-1094,Ana Lindqvist,ana.lindqvist@corp.example,2024-08-26,France,$113.73,Small Business,TRUE
+CUST-1463,Sofia Kowalski,sofia.kowalski@corp.example,2023-02-28,Germany,$80.00,Small Business,TRUE
+CUST-1289,Grace Patel,grace.patel@mail.test,2025-05-16,United Kingdom,$284.79,Small Business,FALSE
+CUST-1134,Omar Costa,omar.costa@mail.test,2025-02-11,France,$38.00,Consumer,FALSE
+CUST-1895,Grace Ferrari,grace.ferrari@mail.test,2023-01-22,France,"$12,780.00",Small Business,TRUE
+CUST-1545,Noor Ferrari,noor.ferrari@corp.example,2024-10-09,United States,$107.31,Enterprise,TRUE
+CUST-1551,Leilani Weber,leilani.weber@example.com,2024-10-03,France,$192.34,Small Business,FALSE
+CUST-1211,Ana Okafor,ana.okafor@example.com,1897-04-05,Germany,$56.39,Small Business,TRUE
+CUST-1500,Omar Brennan,omar.brennan@mail.test,2024-06-27,United States,$92.68,Enterprise,FALSE
+CUST-1655,Chen Ferrari,chen.ferrari@mail.test,2024-12-31,Germany,$125.00,Small Business,FALSE
+CUST-1153,Sofia Haddad,sofia.haddad@mail.test,2025-08-02,United States,$337.65,Small Business,FALSE
+CUST-1310,Noor Kowalski,noor.kowalski@example.com,2023-03-07,France,$383.00,Enterprise,FALSE
+CUST-1297,Sofia Ferrari,sofia.ferrari@corp.example,2025-03-27,United States,$98.61,Mid-Market,FALSE
+CUST-1421,Jonas Okafor,jonas.okafor@mail.test,,United Kingdom,$126.03,Consumer,FALSE
+CUST-1005,Priya Patel,priya.patel@example.com,2025-05-01,France,$159.00,Enterprise,FALSE
+CUST-1122,Jonas Costa,jonas.costa@example.com,2024-09-13,United States,$577.00,Enterprise,TRUE
+CUST-1564,Leilani Costa,leilani.costa@mail.test,2023-01-24,United States,$540.00,Mid-Market,FALSE
+CUST-1741,Marcus Haddad,marcus.haddad@example.com,2024-02-18,Germany,$177.88,Consumer,FALSE
+CUST-1317,Tomás Da Silva,s@example.com,2025-10-06,United Kingdom,"$1,369.31",Consumer,FALSE
+CUST-1428,Ravi Nakamura,ravi.nakamura@corp.example,2023-01-26,France,$41.63,Mid-Market,FALSE
+CUST-1711,Yuki Odwyer,yuki@example.com,2023-06-19,United States,$664.33,Mid-Market,TRUE
+CUST-1067,Leilani Haddad,leilani.haddad@example.com,2024-03-21,United Kingdom,"$4,385.00",Consumer,TRUE
+CUST-1752,Sofia Kowalski,sofia.kowalski@corp.example,2023-05-02,United Kingdom,"$14,029.00",Small Business,TRUE
+CUST-1899,Priya Ferrari,priya.ferrari@mail.test,2023-04-05,France,"$7,266.00",Small Business,FALSE
+CUST-1236,Omar Okafor,omar.okafor@mail.test,2023-08-07,United States,"$2,425.47",Small Business,FALSE
+CUST-1267,Priya Brennan,priya.brennan@corp.example,2023-03-11,United States,"$2,075.62",Enterprise,TRUE
+CUST-1952,Aisha Haddad,aisha.haddad@mail.test,,United Kingdom,$236.59,Enterprise,TRUE
+CUST-1488,Leilani Odwyer,leilani.odwyer@example.com,2025-03-18,United States,$62.44,Consumer,TRUE
+CUST-1779,Ravi Nakamura,ravi.nakamura@mail.test,2023-05-17,United Kingdom,$212.00,Enterprise,FALSE
+CUST-1515,Chen Odwyer,chen.odwyer@example.com,2024-11-25,United States,"$2,428.00",Enterprise,FALSE
+CUST-1912,Ana Nakamura,ana.nakamura@mail.test,2023-09-27,United Kingdom,$258.31,Small Business,FALSE
+CUST-1922,Mikael Odwyer,mikael.odwyer@corp.example,2024-03-30,United States,$68.60,Consumer,FALSE
+CUST-1191,Jonas Nguyen,jonas.nguyen@corp.example,2024-03-04,Germany,$188.57,Consumer,FALSE
+CUST-1800,Priya Ferrari,priya.ferrari@mail.test,2023-03-30,United Kingdom,"$8,376.00",Consumer,FALSE
+CUST-1130,Leilani Lindqvist,leilani.lindqvist@example.com,2024-02-27,France,$107.89,Consumer,FALSE
+CUST-1818,Yuki Da Silva,yuki@example.com,2024-01-27,Brazil,$241.39,Enterprise,TRUE
+CUST-1908,Sofia Haddad,sofia.haddad@corp.example,2023-11-22,France,$630.00,Small Business,TRUE
+CUST-1855,Tomás Da Silva,toms.dasilva@corp.example,2023-11-15,United States,$336.03,Enterprise,FALSE
+CUST-1411,Leilani Kowalski,leilani.kowalski@example.com,2023-06-15,United Kingdom,$80.16,Mid-Market,TRUE
+CUST-1754,Priya Da Silva,priya@example.com,2023-02-20,Brazil,$20.00,Consumer,FALSE
+CUST-1280,Omar Odwyer,omar.odwyer@mail.test,2024-11-09,United Kingdom,$607.00,Consumer,TRUE
+CUST-1311,Noor Da Silva,noor.dasilva@corp.example,2024-04-09,Germany,$305.64,Consumer,FALSE
+CUST-1847,Ana Brennan,ana.brennan@example.com,2023-06-04,United States,$154.00,Mid-Market,TRUE
+CUST-1131,Leilani Okafor,leilani.okafor@example.com,2023-02-23,United States,$607.64,Mid-Market,FALSE
+CUST-1206,Leilani Brennan,,2024-01-13,United States,$166.00,Enterprise,FALSE
+CUST-1751,Sofia Kowalski,sofia.kowalski@mail.test,2024-05-22,Brazil,,Small Business,FALSE
+CUST-1650,Leilani Nguyen,leilani@example.com,2025-02-28,United Kingdom,$213.54,Mid-Market,TRUE
+CUST-1843,Noor Brennan,,2024-02-08,France,$324.75,Small Business,FALSE
+CUST-1148,Chen Nakamura,chen.nakamura@mail.test,2024-11-26,United States,$948.21,Consumer,TRUE
+CUST-1410,Omar Ferrari,omar.ferrari@mail.test,2023-01-28,Germany,$147.81,Small Business,TRUE
+CUST-1645,Grace Lindqvist,grace.lindqvist@example.com,2023-10-24,Germany,$134.36,Enterprise,TRUE
+CUST-1424,Marcus Odwyer,marcus.odwyer@mail.test,2024-08-13,France,$654.00,Mid-Market,TRUE
+CUST-1781,Grace Nakamura,grace.nakamura@mail.test,2023-09-17,United Kingdom,$198.45,Small Business,TRUE
+CUST-1065,Grace Da Silva,grace.dasilva@example.com,2025-04-12,Germany,$302.80,Consumer,TRUE
+CUST-1230,Ravi Weber,ravi.weber@corp.example,2023-04-16,France,$267.98,Small Business,TRUE
+CUST-1744,Chen Brennan,,2023-08-08,United States,$397.07,Consumer,TRUE
+CUST-1861,Mikael Patel,mikael.patel@example.com,,Brazil,$215.43,Enterprise,TRUE
+CUST-1543,Noor Costa,noor.costa@corp.example,2023-12-05,Brazil,$280.00,Enterprise,TRUE
+CUST-1364,Tomás Weber,toms.weber@mail.test,2024-05-05,United States,$467.29,Enterprise,FALSE
+CUST-1298,Jonas Patel,jonas.patel@example.com,2024-05-06,United States,$77.01,Enterprise,FALSE
+CUST-1904,Jonas Ferrari,jonas@example.com,2023-05-15,France,"$6,132.00",Mid-Market,TRUE
+CUST-1269,Yuki Haddad,yuki.haddad@example.com,2023-06-21,United Kingdom,"$171,623.00",Mid-Market,TRUE
+CUST-1942,Ravi Da Silva,,2025-02-27,United States,$228.84,Consumer,FALSE
+CUST-1052,Leilani Da Silva,leilani@example.com,1897-04-05,France,"$32,181.00",Consumer,FALSE
+CUST-1423,Mikael Brennan,mikael@example.com,2024-11-19,Brazil,$145.69,Small Business,TRUE
+CUST-1385,Marcus Ferrari,marcus.ferrari@corp.example,2023-05-19,France,$552.73,Mid-Market,FALSE
+CUST-1412,Priya Haddad,priya.haddad@corp.example,2024-09-13,United States,"$45,764.00",Mid-Market,TRUE
+CUST-1457,Noor Ferrari,noor.ferrari@example.com,2023-03-20,United States,$60.71,Consumer,TRUE
+CUST-1098,Grace Weber,grace.weber@example.com,2023-04-16,United States,"$27,025.00",Consumer,FALSE
+CUST-1938,Grace Brennan,grace.brennan@corp.example,2024-11-28,United Kingdom,$114.26,Consumer,FALSE
+CUST-1725,Marcus Odwyer,marcus.odwyer@example.com,2023-06-12,United Kingdom,$106.00,Small Business,FALSE
+CUST-1491,Grace Nakamura,grace.nakamura@mail.test,2023-08-02,United Kingdom,"$23,990.00",Mid-Market,TRUE
+CUST-1274,Priya Nakamura,priya.nakamura@corp.example,2023-12-02,Germany,$20.62,Mid-Market,TRUE
+CUST-1371,Marcus Lindqvist,marcus.lindqvist@corp.example,2025-05-10,Germany,$125.48,Enterprise,TRUE
+CUST-1879,Ravi Costa,ravi.costa@example.com,2025-05-05,United States,,Enterprise,TRUE
+CUST-1292,Marcus Costa,marcus.costa@corp.example,2023-06-11,United Kingdom,"$1,328.99",Mid-Market,FALSE
+CUST-1790,Chen Haddad,chen.haddad@example.com,2024-09-11,Brazil,$88.42,Enterprise,FALSE
+CUST-1480,Sofia Nguyen,,2023-08-27,United Kingdom,$358.75,Small Business,FALSE
+CUST-1571,Ravi Nakamura,ravi.nakamura@mail.test,2025-04-02,United Kingdom,$86.41,Consumer,FALSE
+CUST-1643,Chen Haddad,chen.haddad@mail.test,2023-04-01,France,$355.45,Small Business,FALSE
+CUST-1178,Ravi Nakamura,ravi.nakamura@example.com,2024-11-18,Germany,$139.64,Small Business,FALSE
+CUST-1592,Aisha Da Silva,aisha.dasilva@corp.example,,United Kingdom,$206.27,Enterprise,TRUE
+CUST-1196,Tomás Kowalski,toms.kowalski@mail.test,2024-06-10,United States,,Small Business,TRUE
+CUST-1534,Yuki Nguyen,yuki.nguyen@mail.test,2023-10-28,United Kingdom,$110.12,Small Business,FALSE
+CUST-1939,Leilani Odwyer,leilani.odwyer@mail.test,2023-11-10,Brazil,$234.13,Mid-Market,TRUE
+CUST-1676,Priya Nakamura,priya.nakamura@example.com,2024-01-11,France,$43.95,Consumer,TRUE
+CUST-1413,Ana Okafor,ana.okafor@mail.test,2024-11-24,United States,$147.59,Small Business,TRUE
+CUST-1519,Ravi Nakamura,ravi.nakamura@corp.example,2024-09-27,Germany,$49.63,Small Business,TRUE
+CUST-1773,Leilani Ferrari,leilani.ferrari@example.com,2023-03-10,Brazil,$456.83,Mid-Market,TRUE
+CUST-1287,Ana Brennan,ana.brennan@example.com,2024-11-27,United Kingdom,$245.82,Small Business,TRUE
+CUST-1507,Grace Da Silva,grace.dasilva@mail.test,2023-07-03,Brazil,"$11,556.00",Enterprise,TRUE
+CUST-1723,Chen Weber,chen.weber@example.com,2024-12-05,United States,"$11,184.00",Mid-Market,TRUE
+CUST-1197,Noor Da Silva,noor.dasilva@example.com,2024-04-23,Germany,$391.69,Mid-Market,FALSE
+CUST-1362,Aisha Nguyen,aisha.nguyen@corp.example,2023-07-31,Germany,"$2,506.74",Small Business,FALSE
+CUST-1521,Tomás Okafor,toms.okafor@mail.test,2025-04-25,Brazil,$164.00,Enterprise,TRUE
+CUST-1198,Grace Patel,,2023-06-17,United States,$107.70,Small Business,FALSE
+CUST-1392,Ana Nguyen,ana.nguyen@mail.test,2025-02-02,Brazil,$165.12,Enterprise,TRUE
+CUST-1076,Tomás Odwyer,toms.odwyer@mail.test,2025-01-15,United States,$117.62,Mid-Market,TRUE
+CUST-1678,Leilani Costa,leilani@example.com,,Brazil,$633.00,Enterprise,FALSE
+CUST-1817,Chen Brennan,chen.brennan@corp.example,2024-06-06,United States,$147.90,Consumer,TRUE
+CUST-1334,Omar Costa,omar.costa@corp.example,2025-05-29,United States,$206.49,Consumer,FALSE
+CUST-1426,Jonas Ferrari,jonas.ferrari@corp.example,2024-08-27,United Kingdom,$434.33,Small Business,FALSE
+CUST-1101,Aisha Odwyer,aisha.odwyer@mail.test,2024-09-26,Brazil,$355.00,Small Business,TRUE
+CUST-1635,Aisha Nakamura,aisha.nakamura@mail.test,2024-02-07,United States,$491.19,Mid-Market,TRUE
+CUST-1819,Mikael Da Silva,mikael.dasilva@example.com,2024-07-07,Germany,$715.27,Consumer,TRUE
+CUST-1459,Yuki Patel,yuki.patel@example.com,2023-12-11,Brazil,$51.00,Enterprise,TRUE
+CUST-1353,Omar Patel,omar.patel@mail.test,2024-02-17,France,$232.54,Small Business,TRUE
+CUST-1878,Ravi Kowalski,ravi.kowalski@example.com,2024-04-18,United States,-$999.00,Small Business,TRUE
+CUST-1608,Ana Nguyen,ana.nguyen@mail.test,2025-03-24,Germany,"$19,848.00",Mid-Market,TRUE
+CUST-1417,Ravi Costa,ravi.costa@mail.test,2024-04-21,United States,$72.00,Small Business,FALSE
+CUST-1335,Aisha Weber,aisha.weber@corp.example,2024-11-18,Brazil,$68.35,Small Business,FALSE
+CUST-1682,Ana Weber,,2023-08-05,United Kingdom,$75.00,Enterprise,TRUE
+CUST-1293,Leilani Da Silva,leilani.dasilva@example.com,2023-12-04,France,"$9,320.00",Enterprise,FALSE
+CUST-1883,Noor Brennan,noor.brennan@mail.test,2024-09-09,Brazil,$877.00,Consumer,TRUE
+CUST-1390,Aisha Patel,aisha.patel@mail.test,2024-01-25,United States,$122.00,Small Business,FALSE
+CUST-1833,Yuki Nakamura,yuki.nakamura@mail.test,2024-08-05,United Kingdom,"$77,921.00",Enterprise,FALSE
+CUST-1261,Sofia Odwyer,sofia.odwyer@corp.example,2024-10-07,Brazil,$629.00,Small Business,TRUE
+CUST-1470,Noor Nakamura,noor.nakamura@mail.test,2023-12-17,Germany,"$1,256.00",Enterprise,FALSE
+CUST-1605,Chen Ferrari,chen.ferrari@mail.test,2024-05-03,Brazil,$87.81,Small Business,FALSE
+CUST-1579,Tomás Ferrari,toms.ferrari@example.com,2023-11-10,United States,$104.40,Mid-Market,TRUE
+CUST-1955,Chen Costa,chen.costa@mail.test,2024-06-26,United States,$212.38,Enterprise,TRUE
+CUST-1224,Leilani Okafor,leilani.okafor@mail.test,2023-05-06,United Kingdom,$93.15,Mid-Market,TRUE
+CUST-1739,Sofia Odwyer,sofia.odwyer@corp.example,2023-02-05,United States,$708.30,Enterprise,TRUE
+CUST-1845,Priya Costa,priya.costa@example.com,2024-12-07,United States,$153.00,Mid-Market,FALSE
+CUST-1205,Sofia Ferrari,sofia.ferrari@example.com,2023-09-30,United States,$476.65,Consumer,FALSE
+CUST-1013,Chen Patel,chen.patel@corp.example,2023-03-20,United States,$220.00,Small Business,FALSE
+CUST-1272,Leilani Costa,leilani.costa@example.com,2024-07-29,France,$142.31,Mid-Market,FALSE
+CUST-1949,Ravi Costa,ravi@example.com,2025-07-02,United States,"$51,224.00",Mid-Market,FALSE
+CUST-1163,Yuki Weber,yuki.weber@example.com,2025-01-02,Germany,$739.25,Enterprise,TRUE
+CUST-1714,Priya Ferrari,priya.ferrari@mail.test,,France,$237.19,Mid-Market,FALSE
+CUST-1187,Ana Haddad,ana.haddad@mail.test,2023-08-05,Germany,"$9,863.00",Mid-Market,TRUE
+CUST-1506,Leilani Nakamura,leilani.nakamura@corp.example,2024-03-07,Germany,$659.60,Enterprise,FALSE
+CUST-1031,Aisha Ferrari,aisha.ferrari@mail.test,2023-07-06,United States,$169.93,Enterprise,FALSE
+CUST-1461,Jonas Costa,jonas.costa@example.com,2024-08-09,United Kingdom,$407.02,Mid-Market,FALSE
+CUST-1147,Noor Kowalski,noor.kowalski@mail.test,2024-08-05,United Kingdom,,Small Business,FALSE
+CUST-1322,Omar Haddad,omar.haddad@example.com,2023-08-12,Germany,$152.00,Enterprise,FALSE
+CUST-1359,Ana Nguyen,ana.nguyen@example.com,2024-04-11,France,$94.83,Small Business,TRUE
+CUST-1344,Aisha Brennan,aisha.brennan@corp.example,,Germany,$28.80,Mid-Market,TRUE
+CUST-1474,Mikael Da Silva,mikael.dasilva@mail.test,2024-03-24,Brazil,,Consumer,TRUE
+CUST-1460,Grace Haddad,grace.haddad@example.com,2024-08-20,United Kingdom,$174.82,Enterprise,TRUE
+CUST-1667,Sofia Okafor,sofia.okafor@corp.example,2023-08-24,United States,$73.00,Mid-Market,TRUE
+CUST-1445,Omar Patel,omar.patel@corp.example,2024-05-20,United States,$381.62,Consumer,FALSE
+CUST-1337,Noor Kowalski,noor.kowalski@mail.test,2023-05-10,United States,$76.00,Mid-Market,TRUE
+CUST-1702,Omar Nakamura,omar.nakamura@mail.test,2023-10-30,United Kingdom,$129.56,Enterprise,TRUE
+CUST-1776,Tomás Okafor,toms.okafor@corp.example,2025-05-21,United States,$277.00,Enterprise,FALSE
+CUST-1766,Tomás Brennan,toms.brennan@mail.test,2024-08-22,Germany,"$1,015.56",Mid-Market,TRUE
+CUST-1108,Ravi Odwyer,ravi.odwyer@example.com,2024-09-18,United States,$166.74,Mid-Market,TRUE
+CUST-1034,Grace Nguyen,grace.nguyen@mail.test,2025-02-13,United Kingdom,$144.00,Enterprise,FALSE
+CUST-1406,Yuki Okafor,yuki.okafor@example.com,2025-04-27,Brazil,$126.42,Enterprise,FALSE
+CUST-1692,Marcus Okafor,marcus.okafor@mail.test,2024-05-04,United Kingdom,$256.00,Enterprise,FALSE
+CUST-1914,Priya Lindqvist,priya.lindqvist@mail.test,2024-08-01,Brazil,$534.82,Enterprise,FALSE
+CUST-1627,Tomás Haddad,toms.haddad@example.com,2025-06-14,United States,$68.95,Mid-Market,FALSE
+CUST-1006,Jonas Odwyer,jonas.odwyer@corp.example,2023-09-09,France,"$39,352.00",Mid-Market,TRUE
+CUST-1731,Aisha Odwyer,aisha.odwyer@mail.test,2024-08-25,United Kingdom,"$7,147.00",Consumer,FALSE
+CUST-1047,Omar Nakamura,omar.nakamura@mail.test,REVIEW,France,$365.15,Mid-Market,TRUE
+CUST-1849,Omar Okafor,omar.okafor@corp.example,2023-04-03,France,$131.87,Mid-Market,TRUE
+CUST-1074,Grace Kowalski,grace.kowalski@corp.example,2024-03-07,United Kingdom,,Consumer,TRUE
+CUST-1640,Aisha Kowalski,aisha.kowalski@corp.example,2025-05-27,United Kingdom,"$15,568.00",Small Business,FALSE
+CUST-1875,Chen Patel,chen.patel@corp.example,2024-12-31,France,$99.24,Mid-Market,FALSE
+CUST-1871,Aisha Brennan,aisha.brennan@mail.test,2024-02-09,United States,$68.24,Enterprise,TRUE
+CUST-1010,Leilani Nguyen,leilani.nguyen@mail.test,2025-02-20,United States,$253.30,Mid-Market,FALSE
+CUST-1619,Mikael Costa,mikael.costa@example.com,2023-11-04,France,$511.00,Mid-Market,TRUE
+CUST-1555,Jonas Odwyer,jonas.odwyer@corp.example,2025-04-22,France,$206.50,Small Business,FALSE
+CUST-1863,Tomás Haddad,toms.haddad@example.com,2023-08-28,United States,$75.31,Small Business,FALSE
+CUST-1672,Leilani Da Silva,leilani.dasilva@corp.example,2024-08-20,United States,$321.00,Mid-Market,TRUE
+CUST-1446,Mikael Costa,mikael.costa@corp.example,2024-03-26,United Kingdom,$210.08,Small Business,FALSE
+CUST-1770,Mikael Nguyen,mikael.nguyen@example.com,2024-10-24,Germany,$150.53,Enterprise,FALSE
+CUST-1928,Noor Okafor,noor@example.com,2023-11-09,United States,$189.53,Mid-Market,FALSE
+CUST-1663,Noor Weber,noor.weber@corp.example,2024-04-07,United States,"$80,337.00",Small Business,TRUE
+CUST-1075,Leilani Nguyen,leilani.nguyen@mail.test,2023-07-03,United Kingdom,"$28,077.00",Consumer,FALSE
+CUST-1069,Chen Costa,chen.costa@corp.example,2023-09-30,Germany,$246.63,Enterprise,TRUE
+CUST-1285,Aisha Ferrari,aisha.ferrari@mail.test,2025-05-11,France,"$4,751.00",Mid-Market,FALSE
+CUST-1842,Ravi Weber,ravi.weber@corp.example,2025-03-26,Brazil,$400.77,Mid-Market,FALSE
+CUST-1621,Sofia Da Silva,sofia.dasilva@mail.test,2025-05-01,Brazil,$203.62,Consumer,FALSE
+CUST-1896,Mikael Ferrari,mikael.ferrari@example.com,2023-07-29,United States,$100.00,Consumer,TRUE
+CUST-1834,Aisha Da Silva,aisha.dasilva@example.com,2024-08-02,Germany,$211.00,Mid-Market,TRUE
+CUST-1877,Chen Nakamura,chen.nakamura@example.com,2024-04-25,United States,$728.00,Small Business,TRUE
+CUST-1859,Jonas Odwyer,jonas.odwyer@mail.test,2024-03-30,United Kingdom,"$50,536.00",Mid-Market,TRUE
+CUST-1865,Tomás Nakamura,toms.nakamura@mail.test,2024-10-15,United Kingdom,$168.80,Mid-Market,FALSE
+CUST-1821,Leilani Odwyer,leilani.odwyer@corp.example,2024-01-27,Germany,"$35,377.00",Mid-Market,FALSE
+CUST-1399,Yuki Kowalski,yuki.kowalski@corp.example,2024-03-13,United States,"$67,496.00",Mid-Market,TRUE
+CUST-1487,Mikael Weber,mikael.weber@corp.example,2024-07-03,United Kingdom,$43.73,Mid-Market,TRUE
+CUST-1295,Ravi Haddad,ravi.haddad@example.com,2024-11-25,France,$923.32,Small Business,FALSE
+CUST-1764,Omar Nakamura,omar.nakamura@corp.example,2024-03-04,United States,$460.11,Enterprise,FALSE
+CUST-1510,Ana Nakamura,ana.nakamura@mail.test,2023-01-06,United States,$276.84,Mid-Market,FALSE
+CUST-1590,Mikael Odwyer,mikael.odwyer@mail.test,2023-12-25,United States,,Mid-Market,TRUE
+CUST-1086,Priya Brennan,priya.brennan@mail.test,,Germany,$110.80,Small Business,TRUE
+CUST-1070,Omar Kowalski,omar.kowalski@corp.example,2023-03-02,United States,$263.50,Small Business,FALSE
+CUST-1027,Ana Kowalski,ana.kowalski@corp.example,2024-09-14,United States,$177.69,Small Business,TRUE
+CUST-1953,Chen Patel,chen.patel@corp.example,2023-03-31,Brazil,$230.00,Small Business,FALSE
+CUST-1648,Priya Haddad,priya.haddad@mail.test,2023-09-18,United States,$43.00,Mid-Market,FALSE
+CUST-1033,Leilani Haddad,leilani.haddad@mail.test,2023-06-24,France,$90.60,Small Business,TRUE
+CUST-1941,Chen Lindqvist,chen.lindqvist@corp.example,2023-10-30,France,$402.93,Mid-Market,FALSE
+CUST-1201,Grace Nguyen,grace.nguyen@example.com,,United Kingdom,$471.73,Small Business,TRUE
+CUST-1602,Sofia Okafor,sofia.okafor@mail.test,2024-03-11,United States,$234.16,Enterprise,FALSE
+CUST-1683,Ravi Nakamura,ravi.nakamura@mail.test,2024-02-12,Brazil,$115.04,Enterprise,FALSE
+CUST-1234,Marcus Kowalski,marcus.kowalski@mail.test,2024-03-01,Germany,$85.67,Mid-Market,FALSE
+CUST-1572,Omar Okafor,omar.okafor@corp.example,2025-04-11,Germany,$514.76,Consumer,FALSE
+CUST-1383,Priya Patel,priya.patel@corp.example,2025-03-23,Brazil,$307.65,Consumer,TRUE
+CUST-1956,Noor Weber,noor.weber@mail.test,,France,$100.00,Mid-Market,FALSE
+CUST-1759,Priya Ferrari,priya.ferrari@mail.test,2023-06-03,United Kingdom,$138.43,Consumer,FALSE
+CUST-1441,Priya Okafor,priya.okafor@corp.example,,United Kingdom,$192.51,Small Business,FALSE
+CUST-1112,Ravi Weber,ravi.weber@mail.test,2024-09-01,United Kingdom,,Mid-Market,TRUE
+CUST-1559,Ana Weber,ana.weber@mail.test,,United Kingdom,$361.00,Enterprise,TRUE
+CUST-1747,Grace Odwyer,grace@example.com,2024-06-03,Germany,$331.84,Enterprise,FALSE
+CUST-1502,Grace Nakamura,grace.nakamura@mail.test,2023-11-11,France,$162.01,Enterprise,TRUE
+CUST-1528,Leilani Brennan,leilani.brennan@corp.example,2024-03-14,United States,"$29,694.00",Enterprise,TRUE
+CUST-1907,Marcus Patel,marcus.patel@mail.test,2024-05-13,United States,"$12,220.00",Enterprise,TRUE
+CUST-1326,Marcus Odwyer,marcus.odwyer@corp.example,2024-06-18,Brazil,"$1,706.00",Small Business,FALSE
+CUST-1173,Jonas Costa,jonas.costa@corp.example,2023-03-12,Germany,$321.00,Consumer,FALSE
+CUST-1662,Ana Brennan,ana.brennan@example.com,2024-05-24,United Kingdom,$231.00,Enterprise,TRUE
+CUST-1393,Sofia Kowalski,sofia@example.com,2025-01-02,United States,"$25,044.00",Small Business,FALSE
+CUST-1637,Chen Nakamura,chen.nakamura@corp.example,2023-06-24,Germany,$429.36,Enterprise,TRUE
+CUST-1475,Marcus Ferrari,marcus.ferrari@mail.test,2023-09-14,United States,$69.00,Consumer,TRUE
+CUST-1508,Tomás Patel,toms.patel@corp.example,2023-07-09,United States,$911.13,Enterprise,FALSE
+CUST-1679,Sofia Patel,sofia.patel@example.com,2024-06-01,Germany,$304.84,Enterprise,TRUE
+CUST-1540,Priya Patel,priya.patel@mail.test,2025-04-05,Germany,$317.00,Enterprise,TRUE
+CUST-1757,Aisha Ferrari,aisha.ferrari@example.com,2023-02-26,United Kingdom,$36.00,Enterprise,FALSE
+CUST-1634,Chen Costa,chen.costa@corp.example,2023-10-02,United States,$149.03,Mid-Market,FALSE
+CUST-1931,Marcus Ferrari,marcus.ferrari@example.com,2025-01-27,United Kingdom,$134.99,Small Business,TRUE
+CUST-1570,Leilani Odwyer,leilani.odwyer@corp.example,2024-06-21,United States,$419.19,Enterprise,TRUE
+CUST-1284,Priya Nakamura,priya.nakamura@example.com,2024-02-02,Germany,$296.03,Small Business,FALSE
+CUST-1492,Mikael Nakamura,mikael.nakamura@mail.test,2023-07-06,Germany,$136.32,Enterprise,TRUE
+CUST-1733,Grace Lindqvist,grace.lindqvist@corp.example,2024-05-27,France,$150.50,Enterprise,FALSE
+CUST-1680,Omar Haddad,omar.haddad@mail.test,2024-03-02,United States,"$73,335.00",Enterprise,TRUE
+CUST-1341,Ravi Kowalski,ravi.kowalski@mail.test,2023-08-07,United States,"$33,340.00",Mid-Market,TRUE
+CUST-1017,Omar Brennan,omar.brennan@example.com,2023-10-19,Germany,$486.09,Enterprise,TRUE
+CUST-1141,Ravi Odwyer,ravi.odwyer@example.com,2023-09-05,United Kingdom,,Small Business,TRUE
+CUST-1828,Leilani Haddad,leilani.haddad@mail.test,2023-10-21,United Kingdom,$252.99,Mid-Market,TRUE
+CUST-1400,Aisha Ferrari,aisha.ferrari@mail.test,2025-02-20,Brazil,$137.00,Consumer,FALSE
+CUST-1361,Aisha Weber,aisha.weber@corp.example,2025-02-06,United States,$525.60,Consumer,TRUE
+CUST-1401,Tomás Brennan,toms.brennan@mail.test,2023-03-27,Germany,-$999.00,Enterprise,TRUE
+CUST-1001,Marcus Da Silva,marcus.dasilva@mail.test,2024-08-18,France,$197.25,Small Business,FALSE
+CUST-1281,Aisha Nakamura,aisha.nakamura@corp.example,2023-08-11,France,$657.25,Mid-Market,TRUE
+CUST-1020,Grace Odwyer,grace.odwyer@mail.test,2023-10-02,France,$268.10,Enterprise,FALSE
+CUST-1666,Ana Weber,ana.weber@mail.test,2025-02-14,United Kingdom,$890.59,Mid-Market,TRUE
+CUST-1599,Ana Okafor,ana.okafor@corp.example,2023-05-30,United States,"$18,737.00",Enterprise,FALSE
+CUST-1071,Grace Kowalski,grace.kowalski@example.com,2024-01-16,Germany,$146.00,Enterprise,TRUE
+CUST-1352,Aisha Ferrari,aisha@example.com,2024-05-19,United Kingdom,"$14,106.00",Mid-Market,FALSE
+CUST-1053,Tomás Da Silva,toms.dasilva@mail.test,2025-02-05,United Kingdom,$147.70,Consumer,FALSE
+CUST-1225,Aisha Lindqvist,aisha@example..com,2024-07-18,Germany,$106.00,Small Business,FALSE
+CUST-1820,Ravi Okafor,ravi.okafor@corp.example,2023-02-07,United Kingdom,"$1,085.70",Mid-Market,TRUE
+CUST-1653,Grace Ferrari,grace.ferrari@mail.test,2023-12-28,United Kingdom,"$5,723.00",Enterprise,TRUE
+CUST-1625,Aisha Nakamura,aisha.nakamura@mail.test,2023-01-26,United Kingdom,$50.40,Mid-Market,FALSE
+CUST-1777,Ana Brennan,ana.brennan@mail.test,2023-03-25,United States,$728.77,Consumer,TRUE
+CUST-1166,Priya Nguyen,priya.nguyen@corp.example,2024-06-05,Germany,$149.64,Enterprise,TRUE
+CUST-1372,Leilani Haddad,leilani.haddad@corp.example,2024-07-08,Germany,$127.50,Mid-Market,FALSE
+CUST-1432,Leilani Da Silva,leilani.dasilva@corp.example,2024-04-02,Germany,$186.15,Consumer,FALSE
+CUST-1077,Ana Costa,ana.costa@corp.example,2024-12-09,France,,Mid-Market,TRUE
+CUST-1082,Marcus Weber,marcus.weber@mail.test,2024-07-20,United States,"$63,544.00",Small Business,TRUE
+CUST-1531,Ana Okafor,ana.okafor@example.com,2023-06-30,France,$187.56,Consumer,TRUE
+CUST-1434,Ana Patel,ana.patel@mail.test,2024-09-16,United Kingdom,$153.78,Mid-Market,FALSE
+CUST-1630,Sofia Da Silva,sofia.dasilva@corp.example,2025-01-14,France,$427.30,Enterprise,TRUE
+CUST-1170,Sofia Nguyen,sofia.nguyen@mail.test,2024-04-21,United Kingdom,$59.08,Mid-Market,FALSE
+CUST-1700,Leilani Brennan,leilani.brennan@example.com,2024-02-24,United States,$775.85,Small Business,TRUE
+CUST-1706,Sofia Nguyen,sofia.nguyen@example.com,2023-06-13,United States,"$15,158.00",Mid-Market,FALSE
+CUST-1084,Leilani Costa,leilani.costa@example.com,2024-05-22,France,"$14,279.00",Small Business,FALSE
+CUST-1384,Priya Brennan,priya.brennan@example.com,2025-03-11,United Kingdom,$162.67,Mid-Market,TRUE
+CUST-1436,Yuki Weber,yuki.weber@example.com,2024-03-09,United Kingdom,$140.71,Mid-Market,FALSE
+CUST-1913,Grace Nguyen,grace.nguyen@mail.test,2024-06-26,Germany,"$10,178.00",Enterprise,TRUE
+CUST-1494,Leilani Okafor,leilani.okafor@mail.test,2023-08-05,Germany,$200.32,Mid-Market,FALSE
+CUST-1743,Noor Patel,noor.patel@mail.test,2024-10-23,United Kingdom,$45.03,Enterprise,FALSE
+CUST-1852,Ravi Ferrari,ravi.ferrari@corp.example,2023-06-29,Brazil,$454.57,Mid-Market,FALSE
+CUST-1478,Jonas Nakamura,jonas.nakamura@corp.example,2024-04-24,Germany,$122.56,Mid-Market,TRUE
+CUST-1110,Chen Kowalski,chen.kowalski@mail.test,2024-02-29,Brazil,"$9,357.00",Enterprise,FALSE
+CUST-1257,Tomás Da Silva,toms.dasilva@example.com,2024-04-22,United States,"$20,006.00",Enterprise,TRUE
+CUST-1217,Yuki Nguyen,yuki.nguyen@mail.test,2024-08-28,France,$195.33,Mid-Market,TRUE
+CUST-1903,Mikael Patel,mikael.patel@mail.test,2024-01-17,United Kingdom,$139.82,Small Business,TRUE
+CUST-1184,Grace Da Silva,grace.dasilva@corp.example,2024-08-29,United States,$95.00,Small Business,FALSE
+CUST-1030,Jonas Odwyer,jonas.odwyer@corp.example,2025-03-16,United Kingdom,$209.84,Small Business,TRUE
+CUST-1917,Aisha Nakamura,aisha.nakamura@mail.test,2023-01-05,Germany,$526.00,Small Business,FALSE
+CUST-1947,Marcus Nguyen,marcus.nguyen@corp.example,2023-06-10,Brazil,"$49,636.00",Enterprise,TRUE
+CUST-1451,Sofia Haddad,sofia.haddad@example.com,2025-04-21,Germany,$176.62,Small Business,FALSE
+CUST-1860,Chen Nguyen,chen.nguyen@mail.test,2025-03-27,Germany,$103.90,Consumer,FALSE
+CUST-1532,Noor Nguyen,noor.nguyen@mail.test,,United States,$52.19,Small Business,TRUE
+CUST-1742,Marcus Odwyer,marcus.odwyer@example.com,2023-08-05,United States,,Small Business,FALSE
+CUST-1696,Leilani Okafor,leilani.okafor@example.com,,France,$114.02,Enterprise,TRUE
+CUST-1092,Priya Nguyen,priya.nguyen@corp.example,2024-07-23,Brazil,$117.34,Consumer,FALSE
+CUST-1264,Tomás Nguyen,toms.nguyen@corp.example,2023-03-30,Brazil,$188.28,Enterprise,FALSE
+CUST-1591,Priya Nakamura,priya.nakamura@mail.test,2023-04-22,United Kingdom,,Small Business,FALSE
+CUST-1348,Leilani Nguyen,leilani.nguyen@example.com,2025-01-23,United States,$115.00,Small Business,FALSE
+CUST-1797,Jonas Costa,jonas.costa@example.com,2025-01-11,United Kingdom,$617.59,Mid-Market,TRUE
+CUST-1409,Marcus Lindqvist,marcus.lindqvist@corp.example,2023-06-30,Brazil,$156.32,Small Business,FALSE
+CUST-1304,Priya Nakamura,priya.nakamura@corp.example,2023-12-02,United Kingdom,"$8,637.00",Mid-Market,TRUE
+CUST-1218,Ravi Okafor,ravi.okafor@corp.example,2024-02-25,Germany,$950.80,Small Business,FALSE
+CUST-1612,Ana Lindqvist,ana@example.com,2023-04-11,United States,"$47,997.00",Mid-Market,TRUE
+CUST-1489,Ana Patel,ana.patel@mail.test,2023-03-30,Germany,$222.60,Mid-Market,FALSE
+CUST-1332,Leilani Ferrari,leilani@example.com,2023-04-25,United States,$84.00,Enterprise,FALSE
+CUST-1192,Aisha Costa,aisha.costa@corp.example,2025-04-03,United States,$573.63,Mid-Market,FALSE
+CUST-1442,Mikael Odwyer,mikael.odwyer@corp.example,2024-12-10,Germany,$285.51,Enterprise,FALSE
+CUST-1874,Aisha Haddad,aisha.haddad@mail.test,2023-12-26,United States,$235.76,Small Business,TRUE
+CUST-1099,Jonas Odwyer,jonas.odwyer@example.com,2024-01-20,Germany,$116.00,Enterprise,TRUE
+CUST-1002,Yuki Lindqvist,yuki.lindqvist@corp.example,2024-01-23,Germany,$637.06,Small Business,TRUE
+CUST-1712,Leilani Nguyen,leilani.nguyen@example.com,2024-11-30,United Kingdom,$329.24,Small Business,FALSE
+CUST-1000,Ana Haddad,ana.haddad@corp.example,2023-12-02,United Kingdom,$689.97,Mid-Market,TRUE
+CUST-1123,Aisha Okafor,aisha.okafor@mail.test,2024-03-02,United Kingdom,$206.00,Enterprise,TRUE
+CUST-1864,Omar Ferrari,omar@example.com,2024-04-10,United States,$192.00,Enterprise,FALSE
+CUST-1016,Grace Haddad,grace.haddad@corp.example,2024-06-17,United Kingdom,$217.87,Small Business,FALSE
+CUST-1328,Omar Nakamura,omar.nakamura@mail.test,2023-08-28,Brazil,$848.37,Small Business,FALSE
+CUST-1467,Mikael Ferrari,mikael.ferrari@example.com,2025-06-12,United States,"$48,582.00",Consumer,FALSE
+CUST-1339,Ana Ferrari,ana.ferrari@corp.example,2024-12-17,United Kingdom,"$15,143.00",Mid-Market,FALSE
+CUST-1588,Ana Nguyen,ana.nguyen@example.com,2025-06-08,United States,$318.18,Enterprise,FALSE
+CUST-1321,Grace Haddad,grace.haddad@mail.test,2023-05-03,United Kingdom,$231.00,Mid-Market,TRUE
+CUST-1703,Ravi Nguyen,ravi.nguyen@mail.test,2023-12-17,Germany,$97.00,Small Business,FALSE
+CUST-1673,Grace Da Silva,grace.dasilva@corp.example,2024-11-06,France,$405.54,Mid-Market,FALSE
+CUST-1258,Chen Costa,chen.costa@mail.test,2023-08-11,Brazil,$52.39,Consumer,FALSE
+CUST-1746,Ana Costa,ana.costa@corp.example,2024-09-06,United Kingdom,$53.71,Mid-Market,FALSE
+CUST-1373,Ravi Patel,ravi.patel@example.com,2023-07-28,United States,$115.98,Mid-Market,TRUE
+CUST-1910,Omar Patel,omar.patel@corp.example,2024-04-30,United Kingdom,$64.70,Mid-Market,FALSE
+CUST-1851,Jonas Brennan,jonas.brennan@corp.example,2023-04-01,United Kingdom,$349.06,Small Business,TRUE
+CUST-1277,Ravi Nakamura,ravi.nakamura@mail.test,2024-04-01,Germany,$939.41,Mid-Market,TRUE
+CUST-1142,Noor Da Silva,noor.dasilva@mail.test,2024-04-17,United States,,Small Business,TRUE
+CUST-1749,Ravi Costa,ravi.costa@corp.example,2023-03-05,United States,$126.80,Small Business,TRUE
+CUST-1582,Omar Weber,,2025-06-02,France,$107.81,Mid-Market,FALSE
+CUST-1716,Tomás Kowalski,toms.kowalski@mail.test,2024-09-01,United States,$139.65,Small Business,TRUE
+CUST-1054,Sofia Nguyen,sofia.nguyen@example.com,2023-06-24,France,$311.53,Small Business,FALSE
+CUST-1495,Jonas Lindqvist,jonas.lindqvist@mail.test,2024-02-07,Brazil,$732.61,Enterprise,TRUE
+CUST-1381,Sofia Kowalski,sofia.kowalski@mail.test,2024-08-20,Germany,$139.00,Small Business,FALSE
+CUST-1036,Yuki Weber,,2023-01-03,France,,Consumer,FALSE
+CUST-1538,Tomás Kowalski,toms.kowalski@corp.example,2023-05-16,United Kingdom,"$34,347.00",Mid-Market,FALSE
+CUST-1846,Priya Nakamura,priya.nakamura@example.com,2025-01-20,United Kingdom,$120.00,Mid-Market,FALSE
+CUST-1151,Priya Okafor,priya.okafor@example.com,2023-11-03,United Kingdom,$90.49,Enterprise,FALSE
+CUST-1162,Ravi Nguyen,,2023-02-02,United States,,Small Business,TRUE
+CUST-1209,Ravi Nguyen,ravi.nguyen@mail.test,2024-08-26,Germany,$76.16,Enterprise,TRUE
+CUST-1816,Noor Odwyer,noor.odwyer@example.com,2024-12-24,Brazil,$36.75,Consumer,TRUE
+CUST-1906,Aisha Kowalski,aisha.kowalski@mail.test,2023-02-26,Germany,$774.36,Mid-Market,TRUE
+CUST-1097,Chen Nguyen,chen.nguyen@example.com,2023-01-28,United Kingdom,$456.00,Enterprise,TRUE
+CUST-1305,Grace Ferrari,grace.ferrari@mail.test,2024-12-21,Brazil,$493.02,Small Business,TRUE
+CUST-1481,Yuki Patel,yuki@example..com,2023-12-03,United States,$94.08,Small Business,TRUE
+CUST-1656,Mikael Ferrari,mikael.ferrari@example.com,,France,$151.16,Enterprise,FALSE
+CUST-1396,Ravi Nguyen,,2025-05-31,Brazil,$571.53,Mid-Market,FALSE
+CUST-1832,Leilani Kowalski,leilani.kowalski@corp.example,2023-04-26,France,"$30,142.00",Mid-Market,FALSE
+CUST-1787,Leilani Patel,leilani.patel@example.com,2024-07-22,United Kingdom,-$999.00,Enterprise,TRUE
+CUST-1668,Marcus Patel,marcus.patel@corp.example,2023-01-16,Brazil,$658.00,Mid-Market,FALSE
+CUST-1940,Tomás Nguyen,,2025-04-25,Germany,$618.00,Mid-Market,TRUE
+CUST-1547,Yuki Okafor,yuki.okafor@mail.test,2024-03-11,United States,"$16,027.00",Consumer,TRUE
+CUST-1923,Aisha Costa,aisha.costa@corp.example,2025-05-12,United States,$167.11,Consumer,TRUE
+CUST-1240,Aisha Patel,aisha.patel@example.com,2023-02-19,United States,,Consumer,FALSE
+CUST-1888,Leilani Kowalski,leilani.kowalski@corp.example,2024-06-11,Germany,"$1,442.00",Small Business,FALSE
+CUST-1897,Aisha Lindqvist,aisha.lindqvist@corp.example,2025-06-01,United Kingdom,$363.00,Mid-Market,TRUE
+CUST-1868,Omar Haddad,omar.haddad@corp.example,2024-10-09,United States,$472.00,Consumer,FALSE
+CUST-1354,Mikael Okafor,mikael@example.com,2023-03-28,United States,"$1,009.64",Mid-Market,TRUE
+CUST-1233,Ravi Patel,ravi.patel@corp.example,2023-03-06,United States,$120.88,Enterprise,FALSE
+CUST-1169,Grace Nakamura,grace.nakamura@example.com,2024-11-26,Brazil,$306.15,Enterprise,FALSE
+CUST-1079,Chen Okafor,chen@example..com,2023-02-19,United States,$165.00,Enterprise,FALSE
+CUST-1763,Jonas Nakamura,jonas.nakamura@mail.test,2023-10-25,Brazil,$172.34,Small Business,FALSE
+CUST-1561,Grace Patel,grace.patel@example.com,2025-02-22,United Kingdom,$499.00,Consumer,FALSE
+CUST-1688,Ana Brennan,ana.brennan@corp.example,2024-09-27,Germany,"$46,174.00",Consumer,FALSE
+CUST-1019,Priya Da Silva,priya.dasilva@mail.test,2023-01-16,Germany,$338.98,Consumer,TRUE
+CUST-1171,Yuki Weber,yuki.weber@mail.test,2023-02-17,United Kingdom,$483.16,Enterprise,TRUE
+CUST-1454,Ravi Nguyen,ravi.nguyen@example.com,2024-02-28,United Kingdom,$132.26,Mid-Market,FALSE
+CUST-1199,Tomás Kowalski,toms.kowalski@corp.example,2024-02-10,Brazil,"$1,455.70",Small Business,TRUE
+CUST-1068,Ravi Weber,ravi.weber@corp.example,2024-10-13,Brazil,"$6,701.00",Consumer,FALSE
+CUST-1064,Leilani Nguyen,leilani.nguyen@example.com,2024-10-31,United States,$205.13,Enterprise,FALSE
+CUST-1750,Grace Nakamura,grace.nakamura@example.com,2023-01-29,Germany,$477.03,Enterprise,TRUE
+CUST-1024,Grace Ferrari,grace.ferrari@example.com,2023-04-26,Brazil,$115.96,Mid-Market,TRUE
+CUST-1004,Aisha Lindqvist,aisha.lindqvist@mail.test,2024-08-28,Brazil,$131.33,Enterprise,FALSE
+CUST-1595,Grace Okafor,grace.okafor@example.com,2023-12-23,United States,"$16,260.00",Enterprise,FALSE
+CUST-1087,Chen Kowalski,chen.kowalski@example.com,2025-04-19,United States,$93.00,Mid-Market,FALSE
+CUST-1232,Yuki Okafor,yuki@example.com,2025-02-19,United States,"$1,221.17",Consumer,TRUE
+CUST-1533,Jonas Costa,jonas.costa@mail.test,2023-11-14,Germany,$684.00,Small Business,FALSE
+CUST-1951,Ravi Patel,ravi.patel@corp.example,2025-03-21,United Kingdom,$27.32,Consumer,FALSE
+CUST-1919,Ravi Ferrari,ravi.ferrari@example.com,2025-04-15,United States,$146.00,Small Business,TRUE
+CUST-1628,Omar Haddad,omar.haddad@mail.test,2024-10-29,United Kingdom,,Enterprise,FALSE
+CUST-1057,Ravi Nguyen,ravi.nguyen@corp.example,2024-06-06,United States,$206.59,Small Business,FALSE
+CUST-1805,Priya Kowalski,priya.kowalski@corp.example,2025-05-08,United States,$238.74,Mid-Market,FALSE
+CUST-1278,Jonas Ferrari,jonas.ferrari@example.com,2025-03-03,United Kingdom,$542.34,Enterprise,FALSE
+CUST-1355,Noor Nakamura,noor.nakamura@mail.test,2024-06-08,Germany,$93.71,Consumer,TRUE
+CUST-1152,Leilani Haddad,leilani.haddad@corp.example,2024-11-02,Germany,$177.35,Mid-Market,FALSE
+CUST-1300,Chen Okafor,chen.okafor@corp.example,,United Kingdom,$95.79,Consumer,FALSE
+CUST-1279,Marcus Lindqvist,marcus.lindqvist@corp.example,2025-03-08,United States,$395.10,Mid-Market,TRUE
+CUST-1427,Aisha Patel,aisha.patel@mail.test,2025-03-11,France,$201.00,Enterprise,FALSE
+CUST-1231,Tomás Nakamura,toms.nakamura@example.com,,France,$212.78,Consumer,TRUE
+CUST-1356,Omar Ferrari,omar.ferrari@mail.test,2023-10-28,Brazil,$155.39,Small Business,TRUE
+CUST-1125,Chen Lindqvist,chen.lindqvist@example.com,2023-08-20,United States,$297.54,Small Business,TRUE
+CUST-1497,Aisha Ferrari,aisha.ferrari@example.com,2024-03-21,France,"$62,599.00",Mid-Market,TRUE
+CUST-1728,Tomás Kowalski,toms.kowalski@corp.example,2024-10-13,Germany,$363.00,Mid-Market,TRUE
+CUST-1106,Sofia Haddad,sofia.haddad@example.com,2025-04-07,Brazil,$465.34,Enterprise,TRUE
+CUST-1140,Ana Nguyen,ana.nguyen@example.com,,United States,"$2,956.00",Mid-Market,TRUE
+CUST-1175,Tomás Haddad,toms.haddad@corp.example,2023-06-15,United Kingdom,$602.39,Small Business,TRUE
+CUST-1378,Leilani Ferrari,leilani.ferrari@mail.test,2024-08-24,Germany,$121.63,Mid-Market,FALSE
+CUST-1722,Yuki Okafor,yuki.okafor@mail.test,2024-04-14,United States,$41.84,Enterprise,FALSE
+CUST-1597,Ana Odwyer,ana.odwyer@corp.example,2024-06-21,Germany,$131.00,Small Business,TRUE
+CUST-1126,Ana Okafor,ana.okafor@mail.test,2024-10-10,United States,$172.84,Enterprise,TRUE
+CUST-1815,Ana Weber,ana.weber@example.com,2023-11-04,Germany,$136.16,Enterprise,FALSE
+CUST-1179,Leilani Nguyen,leilani.nguyen@mail.test,2024-09-10,United Kingdom,$62.00,Mid-Market,FALSE
+CUST-1100,Jonas Brennan,jonas.brennan@example.com,2024-12-22,France,$132.00,Enterprise,TRUE
+CUST-1207,Ravi Brennan,ravi.brennan@corp.example,2024-10-10,United Kingdom,"$64,412.00",Mid-Market,FALSE
+CUST-1675,Grace Costa,grace.costa@mail.test,2023-05-03,United States,,Small Business,TRUE
+CUST-1901,Grace Nguyen,grace.nguyen@mail.test,2024-10-07,Germany,$77.74,Enterprise,TRUE
+CUST-1073,Sofia Odwyer,sofia.odwyer@corp.example,2023-09-24,United Kingdom,$107.16,Mid-Market,TRUE
+CUST-1589,Noor Patel,noor.patel@example.com,2024-02-21,United States,$338.59,Enterprise,FALSE
+CUST-1204,Marcus Haddad,marcus.haddad@corp.example,2024-05-09,Brazil,"$17,988.00",Consumer,FALSE
+CUST-1642,Mikael Okafor,mikael.okafor@corp.example,2023-03-21,United Kingdom,$404.01,Mid-Market,TRUE
+CUST-1657,Chen Brennan,chen.brennan@corp.example,2023-05-10,Brazil,$61.37,Small Business,TRUE
+CUST-1789,Marcus Nguyen,marcus@example.com,2024-05-29,Germany,"$1,388.68",Mid-Market,TRUE
+CUST-1884,Mikael Okafor,mikael.okafor@corp.example,2024-02-05,Brazil,$647.90,Enterprise,TRUE
+CUST-1403,Leilani Costa,leilani.costa@example.com,,France,"$100,223.00",Small Business,FALSE
+CUST-1041,Ravi Brennan,ravi.brennan@mail.test,2024-03-05,Germany,$221.61,Enterprise,FALSE
+CUST-1624,Marcus Nguyen,,2023-08-05,United Kingdom,$209.00,Mid-Market,FALSE
+CUST-1358,Chen Nguyen,chen.nguyen@corp.example,2024-03-10,United States,$87.10,Consumer,FALSE
+CUST-1085,Tomás Da Silva,toms.dasilva@corp.example,2024-05-07,United Kingdom,$334.10,Consumer,FALSE
+CUST-1437,Aisha Da Silva,aisha.dasilva@example.com,2023-07-31,United States,"$6,112.00",Enterprise,TRUE
+CUST-1208,Sofia Nguyen,sofia.nguyen@mail.test,2024-05-14,United States,$72.00,Mid-Market,FALSE
+CUST-1618,Noor Weber,noor.weber@mail.test,2023-10-30,France,$816.75,Enterprise,TRUE
+CUST-1450,Yuki Odwyer,yuki.odwyer@corp.example,2024-07-15,France,$94.00,Small Business,TRUE
+CUST-1043,Grace Ferrari,grace.ferrari@mail.test,2023-07-19,United Kingdom,$946.70,Small Business,TRUE
+CUST-1294,Yuki Brennan,yuki.brennan@example.com,2023-05-07,United States,,Enterprise,FALSE
+CUST-1329,Noor Lindqvist,noor.lindqvist@corp.example,2024-03-04,United States,$89.67,Small Business,FALSE
+CUST-1496,Yuki Patel,yuki@example.com,2023-09-14,Germany,$86.00,Small Business,TRUE
+CUST-1455,Grace Patel,grace.patel@mail.test,2024-10-27,United Kingdom,$136.19,Enterprise,FALSE
+CUST-1062,Sofia Kowalski,sofia.kowalski@mail.test,2024-01-26,United States,"$1,366.92",Mid-Market,TRUE
+CUST-1241,Yuki Weber,yuki.weber@example.com,2024-08-29,Germany,$202.00,Small Business,TRUE
+CUST-1557,Mikael Brennan,mikael.brennan@example.com,,United Kingdom,"$16,583.00",Small Business,FALSE
+CUST-1732,Leilani Odwyer,leilani.odwyer@corp.example,2024-03-23,Germany,"$132,327.00",Small Business,FALSE
+CUST-1536,Yuki Nguyen,yuki.nguyen@example.com,2025-04-11,France,$33.26,Small Business,FALSE
+CUST-1525,Aisha Lindqvist,aisha.lindqvist@example.com,REVIEW,United Kingdom,$185.00,Enterprise,FALSE
+CUST-1129,Jonas Lindqvist,jonas.lindqvist@example.com,2023-11-26,United Kingdom,"$1,005.01",Small Business,TRUE
+CUST-1594,Omar Lindqvist,omar.lindqvist@mail.test,2023-01-19,Brazil,"$20,114.00",Consumer,FALSE
+CUST-1096,Ana Patel,ana.patel@mail.test,2024-06-08,United Kingdom,$149.67,Consumer,FALSE
+CUST-1448,Yuki Costa,yuki.costa@mail.test,2024-01-31,France,$81.80,Enterprise,TRUE
+CUST-1565,Chen Brennan,chen.brennan@example.com,2025-01-17,Germany,"$1,229.05",Mid-Market,FALSE
+CUST-1720,Aisha Nakamura,aisha.nakamura@corp.example,2023-12-14,Germany,$88.41,Enterprise,TRUE
+CUST-1350,Jonas Odwyer,jonas.odwyer@corp.example,2024-11-10,United States,$45.00,Small Business,FALSE
+CUST-1120,Noor Kowalski,noor.kowalski@corp.example,2024-01-16,United States,$392.31,Mid-Market,TRUE
+CUST-1342,Marcus Nguyen,,2025-04-17,France,"$38,857.00",Mid-Market,FALSE
+CUST-1160,Jonas Weber,jonas.weber@example.com,2024-11-23,United States,$321.00,Enterprise,FALSE
+CUST-1517,Yuki Ferrari,yuki.ferrari@corp.example,2024-07-19,United Kingdom,"$58,405.00",Small Business,TRUE
+CUST-1051,Aisha Da Silva,aisha.dasilva@mail.test,2024-11-12,France,$267.00,Mid-Market,TRUE
+CUST-1447,Sofia Da Silva,sofia.dasilva@mail.test,2023-12-16,United Kingdom,$15.04,Small Business,FALSE
+CUST-1880,Mikael Nakamura,mikael.nakamura@corp.example,2024-12-23,United States,$220.12,Consumer,TRUE
+CUST-1707,Yuki Weber,yuki@example.com,2024-09-30,United States,$107.07,Consumer,TRUE
+CUST-1932,Priya Patel,priya.patel@corp.example,2025-05-20,Brazil,"$1,435.00",Small Business,TRUE
+CUST-1132,Jonas Okafor,jonas.okafor@corp.example,2023-12-06,United States,$809.25,Small Business,TRUE
+CUST-1783,Mikael Costa,mikael@example.com,2024-03-15,Brazil,,Consumer,TRUE
+CUST-1654,Marcus Haddad,marcus.haddad@corp.example,2025-05-12,United States,$405.60,Enterprise,FALSE
+CUST-1263,Ravi Nakamura,ravi.nakamura@example.com,2023-06-08,United States,$67.17,Mid-Market,FALSE
+CUST-1107,Tomás Costa,toms.costa@mail.test,,United Kingdom,$564.71,Enterprise,FALSE
+CUST-1600,Grace Nakamura,grace.nakamura@mail.test,2024-07-29,Brazil,$580.70,Consumer,TRUE
+CUST-1458,Sofia Nguyen,sofia.nguyen@example.com,2024-01-08,Brazil,$416.79,Enterprise,FALSE
+CUST-1891,Ana Okafor,ana.okafor@corp.example,2025-01-14,United Kingdom,$280.00,Consumer,TRUE
+CUST-1689,Chen Odwyer,chen.odwyer@example.com,2023-10-06,United States,$106.67,Small Business,TRUE
+CUST-1377,Priya Patel,priya.patel@mail.test,2025-01-18,Germany,$553.37,Enterprise,FALSE
+CUST-1115,Omar Patel,omar.patel@corp.example,2024-11-16,Brazil,"$1,298.00",Enterprise,FALSE
+CUST-1782,Marcus Brennan,marcus@example..com,2023-03-13,France,$265.97,Small Business,TRUE
+CUST-1684,Sofia Da Silva,sofia.dasilva@corp.example,2023-05-29,United Kingdom,"$1,358.35",Small Business,FALSE
+CUST-1256,Omar Nakamura,omar.nakamura@example.com,2025-04-06,United States,"$73,744.00",Mid-Market,FALSE
+CUST-1479,Aisha Lindqvist,aisha.lindqvist@corp.example,2024-09-09,Brazil,$37.99,Small Business,TRUE
+CUST-1072,Mikael Costa,mikael.costa@example.com,2025-05-01,Brazil,$274.17,Enterprise,FALSE
+CUST-1394,Yuki Weber,yuki.weber@example.com,,United States,"$1,431.64",Small Business,FALSE
+CUST-1127,Yuki Okafor,yuki.okafor@example.com,2024-10-28,United States,$83.09,Small Business,FALSE
+CUST-1780,Leilani Nguyen,leilani.nguyen@mail.test,2024-02-28,Brazil,$206.00,Consumer,TRUE
+CUST-1858,Tomás Ferrari,toms.ferrari@example.com,2023-03-26,Brazil,$406.27,Consumer,TRUE
+CUST-1185,Ravi Patel,ravi.patel@corp.example,2024-07-22,Brazil,$320.00,Small Business,FALSE
+CUST-1745,Mikael Weber,mikael.weber@example.com,2023-03-03,Germany,$49.31,Small Business,FALSE
+CUST-1708,Yuki Nguyen,yuki.nguyen@mail.test,2023-04-21,Germany,"$48,807.00",Mid-Market,FALSE
+CUST-1553,Yuki Nakamura,yuki.nakamura@example.com,2023-03-08,Germany,-$999.00,Mid-Market,TRUE
+CUST-1737,Noor Da Silva,noor.dasilva@example.com,2024-03-08,Germany,$449.56,Consumer,TRUE
+CUST-1049,Yuki Weber,yuki.weber@corp.example,2024-12-21,United States,$201.90,Enterprise,TRUE
+CUST-1768,Marcus Brennan,marcus.brennan@corp.example,2023-01-23,United States,$376.00,Enterprise,TRUE
+CUST-1512,Noor Patel,noor.patel@corp.example,2024-06-13,United Kingdom,$113.12,Enterprise,TRUE
+CUST-1055,Mikael Okafor,mikael.okafor@corp.example,2024-12-17,Brazil,$50.00,Consumer,TRUE
+CUST-1061,Noor Nakamura,noor.nakamura@mail.test,2024-10-21,United States,$451.50,Small Business,TRUE
+CUST-1769,Aisha Lindqvist,aisha.lindqvist@example.com,2024-02-17,France,$43.79,Small Business,FALSE
+CUST-1798,Jonas Costa,jonas.costa@mail.test,2024-12-24,United States,$213.42,Small Business,FALSE
+CUST-1228,Marcus Okafor,marcus.okafor@mail.test,2024-07-09,United Kingdom,,Small Business,FALSE
+CUST-1429,Priya Brennan,priya.brennan@example.com,2023-09-10,United Kingdom,$657.79,Consumer,TRUE
+CUST-1439,Omar Kowalski,omar.kowalski@mail.test,2024-12-18,United States,$143.62,Mid-Market,TRUE
+CUST-1568,Sofia Patel,sofia.patel@example.com,2024-03-06,Germany,$107.73,Enterprise,TRUE
+CUST-1219,Leilani Kowalski,leilani.kowalski@mail.test,2024-12-27,United Kingdom,$221.30,Consumer,FALSE
+CUST-1220,Chen Lindqvist,chen.lindqvist@example.com,2023-09-05,Germany,"$1,011.09",Enterprise,TRUE
+CUST-1008,Marcus Costa,marcus.costa@mail.test,2024-08-16,United States,$317.00,Small Business,FALSE
+CUST-1306,Aisha Lindqvist,aisha.lindqvist@mail.test,2023-07-24,Brazil,$103.00,Mid-Market,TRUE
+CUST-1697,Chen Haddad,chen.haddad@example.com,2025-04-21,United Kingdom,$401.63,Consumer,TRUE
+CUST-1626,Ana Costa,ana.costa@corp.example,2024-03-13,United States,$112.65,Mid-Market,TRUE
+CUST-1724,Jonas Da Silva,jonas.dasilva@corp.example,,France,$397.75,Consumer,FALSE
+CUST-1652,Sofia Okafor,sofia.okafor@corp.example,2024-07-26,United States,$567.10,Mid-Market,FALSE
+CUST-1658,Jonas Ferrari,jonas.ferrari@corp.example,2024-12-27,United Kingdom,$466.08,Enterprise,FALSE
+CUST-1419,Ana Nguyen,ana@example.com,2024-08-29,United States,$726.20,Enterprise,FALSE
+CUST-1699,Leilani Kowalski,leilani.kowalski@corp.example,,United Kingdom,$147.89,Consumer,FALSE
+CUST-1402,Omar Ferrari,omar.ferrari@example.com,,France,"$46,221.00",Mid-Market,TRUE
+CUST-1303,Mikael Ferrari,,2024-01-19,Germany,$730.00,Mid-Market,TRUE
+CUST-1290,Grace Nguyen,grace.nguyen@mail.test,2024-07-05,Germany,$577.77,Enterprise,TRUE
+CUST-1693,Tomás Weber,toms.weber@corp.example,2023-01-02,United States,$67.71,Enterprise,FALSE
